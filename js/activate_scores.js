@@ -5,191 +5,6 @@ const data = {
 			"name": "TheThirdSpartan",
 			"children": [
 				{
-					"name": "GRID",
-					"children": [
-						{
-							"name": "Grid",
-							"children": [
-								{
-									"name": "1: 1918",
-									"value": 100
-								},
-								{
-									"name": "2: 2723",
-									"value": 100
-								},
-								{
-									"name": "3: 3680",
-									"value": 100
-								},
-								{
-									"name": "4: 4320",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: 6350",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Flash Mines",
-							"children": [
-								{
-									"name": "1: 1749",
-									"value": 100
-								},
-								{
-									"name": "2: 2693",
-									"value": 100
-								},
-								{
-									"name": "3: 3753",
-									"value": 100
-								},
-								{
-									"name": "4: 4752",
-									"value": 100
-								},
-								{
-									"name": "5: 5645",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Strategy",
-							"children": [
-								{
-									"name": "1: 1970",
-									"value": 100
-								},
-								{
-									"name": "2: 2955",
-									"value": 100
-								},
-								{
-									"name": "3: 3704",
-									"value": 100
-								},
-								{
-									"name": "4: 4772",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Zones",
-							"children": [
-								{
-									"name": "1: 1855",
-									"value": 100
-								},
-								{
-									"name": "2: 2874",
-									"value": 100
-								},
-								{
-									"name": "3: 3839",
-									"value": 100
-								},
-								{
-									"name": "4: 4838",
-									"value": 100
-								},
-								{
-									"name": "5: 5814",
-									"value": 100
-								},
-								{
-									"name": "6: 6692",
-									"value": 100
-								},
-								{
-									"name": "7: 7844",
-									"value": 100
-								},
-								{
-									"name": "8: 8513",
-									"value": 100
-								},
-								{
-									"name": "9: 9681",
-									"value": 100
-								},
-								{
-									"name": "10: 10515",
-									"value": 100
-								}
-							]
-						}
-					]
-				},
-				{
 					"name": "HOOPS",
 					"children": [
 						{
@@ -368,6 +183,191 @@ const data = {
 								},
 								{
 									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "GRID",
+					"children": [
+						{
+							"name": "Grid",
+							"children": [
+								{
+									"name": "1: 1918",
+									"value": 100
+								},
+								{
+									"name": "2: 2723",
+									"value": 100
+								},
+								{
+									"name": "3: 3680",
+									"value": 100
+								},
+								{
+									"name": "4: 4320",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: 6350",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Flash Mines",
+							"children": [
+								{
+									"name": "1: 1749",
+									"value": 100
+								},
+								{
+									"name": "2: 2693",
+									"value": 100
+								},
+								{
+									"name": "3: 3753",
+									"value": 100
+								},
+								{
+									"name": "4: 4752",
+									"value": 100
+								},
+								{
+									"name": "5: 5645",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Strategy",
+							"children": [
+								{
+									"name": "1: 1970",
+									"value": 100
+								},
+								{
+									"name": "2: 2955",
+									"value": 100
+								},
+								{
+									"name": "3: 3704",
+									"value": 100
+								},
+								{
+									"name": "4: 4772",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zones",
+							"children": [
+								{
+									"name": "1: 1855",
+									"value": 100
+								},
+								{
+									"name": "2: 2874",
+									"value": 100
+								},
+								{
+									"name": "3: 3839",
+									"value": 100
+								},
+								{
+									"name": "4: 4838",
+									"value": 100
+								},
+								{
+									"name": "5: 5814",
+									"value": 100
+								},
+								{
+									"name": "6: 6692",
+									"value": 100
+								},
+								{
+									"name": "7: 7844",
+									"value": 100
+								},
+								{
+									"name": "8: 8513",
+									"value": 100
+								},
+								{
+									"name": "9: 9681",
+									"value": 100
+								},
+								{
+									"name": "10: 10515",
 									"value": 100
 								}
 							]
@@ -1896,191 +1896,6 @@ const data = {
 			"name": "WhiteFang-94",
 			"children": [
 				{
-					"name": "GRID",
-					"children": [
-						{
-							"name": "Grid",
-							"children": [
-								{
-									"name": "1: 1918",
-									"value": 100
-								},
-								{
-									"name": "2: 2777",
-									"value": 100
-								},
-								{
-									"name": "3: 3667",
-									"value": 100
-								},
-								{
-									"name": "4: No Score",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Flash Mines",
-							"children": [
-								{
-									"name": "1: 1749",
-									"value": 100
-								},
-								{
-									"name": "2: 2693",
-									"value": 100
-								},
-								{
-									"name": "3: 3652",
-									"value": 100
-								},
-								{
-									"name": "4: 4631",
-									"value": 100
-								},
-								{
-									"name": "5: 5645",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Strategy",
-							"children": [
-								{
-									"name": "1: 2037",
-									"value": 100
-								},
-								{
-									"name": "2: 2955",
-									"value": 100
-								},
-								{
-									"name": "3: 3704",
-									"value": 100
-								},
-								{
-									"name": "4: 4633",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Zones",
-							"children": [
-								{
-									"name": "1: 1855",
-									"value": 100
-								},
-								{
-									"name": "2: 2874",
-									"value": 100
-								},
-								{
-									"name": "3: 3816",
-									"value": 100
-								},
-								{
-									"name": "4: 4838",
-									"value": 100
-								},
-								{
-									"name": "5: 5805",
-									"value": 100
-								},
-								{
-									"name": "6: 6550",
-									"value": 100
-								},
-								{
-									"name": "7: 7785",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						}
-					]
-				},
-				{
 					"name": "HOOPS",
 					"children": [
 						{
@@ -2247,6 +2062,191 @@ const data = {
 								},
 								{
 									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "GRID",
+					"children": [
+						{
+							"name": "Grid",
+							"children": [
+								{
+									"name": "1: 1943",
+									"value": 100
+								},
+								{
+									"name": "2: 2777",
+									"value": 100
+								},
+								{
+									"name": "3: 3667",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Flash Mines",
+							"children": [
+								{
+									"name": "1: 1749",
+									"value": 100
+								},
+								{
+									"name": "2: 2693",
+									"value": 100
+								},
+								{
+									"name": "3: 3652",
+									"value": 100
+								},
+								{
+									"name": "4: 4631",
+									"value": 100
+								},
+								{
+									"name": "5: 5645",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Strategy",
+							"children": [
+								{
+									"name": "1: 2037",
+									"value": 100
+								},
+								{
+									"name": "2: 2955",
+									"value": 100
+								},
+								{
+									"name": "3: 3704",
+									"value": 100
+								},
+								{
+									"name": "4: 4633",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zones",
+							"children": [
+								{
+									"name": "1: 1855",
+									"value": 100
+								},
+								{
+									"name": "2: 2874",
+									"value": 100
+								},
+								{
+									"name": "3: 3816",
+									"value": 100
+								},
+								{
+									"name": "4: 4838",
+									"value": 100
+								},
+								{
+									"name": "5: 5805",
+									"value": 100
+								},
+								{
+									"name": "6: 6550",
+									"value": 100
+								},
+								{
+									"name": "7: 7785",
 									"value": 100
 								},
 								{
@@ -2686,7 +2686,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3596",
+									"name": "3: 3815",
 									"value": 100
 								},
 								{
@@ -2727,7 +2727,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "2: 2687",
+									"name": "2: 2700",
 									"value": 100
 								},
 								{
@@ -2748,101 +2748,6 @@ const data = {
 								},
 								{
 									"name": "7: 7315",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "CONTROL",
-					"children": [
-						{
-							"name": "Bop",
-							"children": [
-								{
-									"name": "1: 1915",
-									"value": 100
-								},
-								{
-									"name": "2: 2869",
-									"value": 100
-								},
-								{
-									"name": "3: 3884",
-									"value": 100
-								},
-								{
-									"name": "4: 4797",
-									"value": 100
-								},
-								{
-									"name": "5: 5334",
-									"value": 100
-								},
-								{
-									"name": "6: 6404",
-									"value": 100
-								},
-								{
-									"name": "7: 7224",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Labyrinth",
-							"children": [
-								{
-									"name": "1: 1892",
-									"value": 100
-								},
-								{
-									"name": "2: 2894",
-									"value": 100
-								},
-								{
-									"name": "3: 3560",
-									"value": 100
-								},
-								{
-									"name": "4: 4730",
-									"value": 100
-								},
-								{
-									"name": "5: 5696",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
 									"value": 100
 								},
 								{
@@ -3056,7 +2961,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3218",
+									"name": "3: 3275",
 									"value": 100
 								},
 								{
@@ -3092,37 +2997,37 @@ const data = {
 					]
 				},
 				{
-					"name": "STRIKE",
+					"name": "CONTROL",
 					"children": [
 						{
-							"name": "Flip",
+							"name": "Bop",
 							"children": [
 								{
-									"name": "1: 1843",
+									"name": "1: 1915",
 									"value": 100
 								},
 								{
-									"name": "2: 2729",
+									"name": "2: 2869",
 									"value": 100
 								},
 								{
-									"name": "3: 3536",
+									"name": "3: 3884",
 									"value": 100
 								},
 								{
-									"name": "4: 4326",
+									"name": "4: 4797",
 									"value": 100
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5334",
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6404",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7224",
 									"value": 100
 								},
 								{
@@ -3140,165 +3045,30 @@ const data = {
 							]
 						},
 						{
-							"name": "Dartmouth",
+							"name": "Labyrinth",
 							"children": [
 								{
-									"name": "1: 1946",
+									"name": "1: 1892",
 									"value": 100
 								},
 								{
-									"name": "2: 2844",
+									"name": "2: 2894",
 									"value": 100
 								},
 								{
-									"name": "3: 3594",
+									"name": "3: 3560",
 									"value": 100
 								},
 								{
-									"name": "4: No Score",
+									"name": "4: 4730",
 									"value": 100
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5696",
 									"value": 100
 								},
 								{
 									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Asteroids",
-							"children": [
-								{
-									"name": "1: 1945",
-									"value": 100
-								},
-								{
-									"name": "2: 2721",
-									"value": 100
-								},
-								{
-									"name": "3: 3525",
-									"value": 100
-								},
-								{
-									"name": "4: 4236",
-									"value": 100
-								},
-								{
-									"name": "5: 5419",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Terminal",
-							"children": [
-								{
-									"name": "1: 1589",
-									"value": 100
-								},
-								{
-									"name": "2: No Score",
-									"value": 100
-								},
-								{
-									"name": "3: No Score",
-									"value": 100
-								},
-								{
-									"name": "4: No Score",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: 7270",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Seeker",
-							"children": [
-								{
-									"name": "1: 1977",
-									"value": 100
-								},
-								{
-									"name": "2: No Score",
-									"value": 100
-								},
-								{
-									"name": "3: No Score",
-									"value": 100
-								},
-								{
-									"name": "4: No Score",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: 6379",
 									"value": 100
 								},
 								{
@@ -3484,6 +3254,236 @@ const data = {
 								},
 								{
 									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "STRIKE",
+					"children": [
+						{
+							"name": "Flip",
+							"children": [
+								{
+									"name": "1: 1843",
+									"value": 100
+								},
+								{
+									"name": "2: 2729",
+									"value": 100
+								},
+								{
+									"name": "3: 3536",
+									"value": 100
+								},
+								{
+									"name": "4: 4326",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Dartmouth",
+							"children": [
+								{
+									"name": "1: 1946",
+									"value": 100
+								},
+								{
+									"name": "2: 2844",
+									"value": 100
+								},
+								{
+									"name": "3: 3594",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Asteroids",
+							"children": [
+								{
+									"name": "1: 1945",
+									"value": 100
+								},
+								{
+									"name": "2: 2721",
+									"value": 100
+								},
+								{
+									"name": "3: 3525",
+									"value": 100
+								},
+								{
+									"name": "4: 4288",
+									"value": 100
+								},
+								{
+									"name": "5: 5419",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Terminal",
+							"children": [
+								{
+									"name": "1: 1819",
+									"value": 100
+								},
+								{
+									"name": "2: 2710",
+									"value": 100
+								},
+								{
+									"name": "3: 3404",
+									"value": 100
+								},
+								{
+									"name": "4: 4336",
+									"value": 100
+								},
+								{
+									"name": "5: 5330",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: 7270",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Seeker",
+							"children": [
+								{
+									"name": "1: 1977",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: 6379",
 									"value": 100
 								},
 								{
@@ -3746,7 +3746,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3555",
 									"value": 100
 								},
 								{
@@ -3786,191 +3786,6 @@ const data = {
 		{
 			"name": "ReginaK",
 			"children": [
-				{
-					"name": "HOOPS",
-					"children": [
-						{
-							"name": "Simon Says",
-							"children": [
-								{
-									"name": "1: 1688",
-									"value": 100
-								},
-								{
-									"name": "2: 2785",
-									"value": 100
-								},
-								{
-									"name": "3: 3676",
-									"value": 100
-								},
-								{
-									"name": "4: 4584",
-									"value": 100
-								},
-								{
-									"name": "5: 5531",
-									"value": 100
-								},
-								{
-									"name": "6: 6452",
-									"value": 100
-								},
-								{
-									"name": "7: 7436",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Trivial",
-							"children": [
-								{
-									"name": "1: 2054",
-									"value": 100
-								},
-								{
-									"name": "2: 2815",
-									"value": 100
-								},
-								{
-									"name": "3: 3817",
-									"value": 100
-								},
-								{
-									"name": "4: 4667",
-									"value": 100
-								},
-								{
-									"name": "5: 5715",
-									"value": 100
-								},
-								{
-									"name": "6: 6644",
-									"value": 100
-								},
-								{
-									"name": "7: 7528",
-									"value": 100
-								},
-								{
-									"name": "8: 8544",
-									"value": 100
-								},
-								{
-									"name": "9: 9515",
-									"value": 100
-								},
-								{
-									"name": "10: 10690",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Barrage",
-							"children": [
-								{
-									"name": "1: 1629",
-									"value": 100
-								},
-								{
-									"name": "2: 2466",
-									"value": 100
-								},
-								{
-									"name": "3: 3492",
-									"value": 100
-								},
-								{
-									"name": "4: 4367",
-									"value": 100
-								},
-								{
-									"name": "5: 5303",
-									"value": 100
-								},
-								{
-									"name": "6: 6388",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "15 Green",
-							"children": [
-								{
-									"name": "1: 1712",
-									"value": 100
-								},
-								{
-									"name": "2: 2911",
-									"value": 100
-								},
-								{
-									"name": "3: 3731",
-									"value": 100
-								},
-								{
-									"name": "4: 4559",
-									"value": 100
-								},
-								{
-									"name": "5: 5491",
-									"value": 100
-								},
-								{
-									"name": "6: 6569",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						}
-					]
-				},
 				{
 					"name": "GRID",
 					"children": [
@@ -4157,86 +3972,41 @@ const data = {
 					]
 				},
 				{
-					"name": "HIDE",
+					"name": "HOOPS",
 					"children": [
 						{
-							"name": "Words",
+							"name": "Simon Says",
 							"children": [
 								{
-									"name": "1: 1907",
+									"name": "1: 1688",
 									"value": 100
 								},
 								{
-									"name": "2: 3003",
+									"name": "2: 2785",
 									"value": 100
 								},
 								{
-									"name": "3: 3928",
+									"name": "3: 3676",
 									"value": 100
 								},
 								{
-									"name": "4: 4911",
+									"name": "4: 4584",
 									"value": 100
 								},
 								{
-									"name": "5: 5712",
+									"name": "5: 5531",
 									"value": 100
 								},
 								{
-									"name": "6: 6626",
+									"name": "6: 6452",
 									"value": 100
 								},
 								{
-									"name": "7: 7293",
+									"name": "7: 7436",
 									"value": 100
 								},
 								{
-									"name": "8: 8223",
-									"value": 100
-								},
-								{
-									"name": "9: 9266",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Numbers",
-							"children": [
-								{
-									"name": "1: 2166",
-									"value": 100
-								},
-								{
-									"name": "2: 2875",
-									"value": 100
-								},
-								{
-									"name": "3: 3429",
-									"value": 100
-								},
-								{
-									"name": "4: 4269",
-									"value": 100
-								},
-								{
-									"name": "5: 5248",
-									"value": 100
-								},
-								{
-									"name": "6: 6295",
-									"value": 100
-								},
-								{
-									"name": "7: 7304",
-									"value": 100
-								},
-								{
-									"name": "8: 8055",
+									"name": "8: No Score",
 									"value": 100
 								},
 								{
@@ -4250,75 +4020,75 @@ const data = {
 							]
 						},
 						{
-							"name": "Relay",
+							"name": "Trivial",
 							"children": [
 								{
-									"name": "1: 1871",
+									"name": "1: 2054",
 									"value": 100
 								},
 								{
-									"name": "2: 2869",
+									"name": "2: 2815",
 									"value": 100
 								},
 								{
-									"name": "3: 3793",
+									"name": "3: 3817",
 									"value": 100
 								},
 								{
-									"name": "4: 4785",
+									"name": "4: 4667",
 									"value": 100
 								},
 								{
-									"name": "5: 5712",
+									"name": "5: 5715",
 									"value": 100
 								},
 								{
-									"name": "6: 6450",
+									"name": "6: 6644",
 									"value": 100
 								},
 								{
-									"name": "7: 7318",
+									"name": "7: 7528",
 									"value": 100
 								},
 								{
-									"name": "8: 8320",
+									"name": "8: 8544",
 									"value": 100
 								},
 								{
-									"name": "9: 9172",
+									"name": "9: 9515",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10690",
 									"value": 100
 								}
 							]
 						},
 						{
-							"name": "Sequence",
+							"name": "Barrage",
 							"children": [
 								{
-									"name": "1: 1858",
+									"name": "1: 1629",
 									"value": 100
 								},
 								{
-									"name": "2: 3009",
+									"name": "2: 2466",
 									"value": 100
 								},
 								{
-									"name": "3: 3955",
+									"name": "3: 3492",
 									"value": 100
 								},
 								{
-									"name": "4: 4735",
+									"name": "4: 4367",
 									"value": 100
 								},
 								{
-									"name": "5: 5732",
+									"name": "5: 5303",
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6388",
 									"value": 100
 								},
 								{
@@ -4340,38 +4110,38 @@ const data = {
 							]
 						},
 						{
-							"name": "Spellinator",
+							"name": "15 Green",
 							"children": [
 								{
-									"name": "1: 2055",
+									"name": "1: 1712",
 									"value": 100
 								},
 								{
-									"name": "2: 3022",
+									"name": "2: 2911",
 									"value": 100
 								},
 								{
-									"name": "3: 3908",
+									"name": "3: 3731",
 									"value": 100
 								},
 								{
-									"name": "4: 4872",
+									"name": "4: 4559",
 									"value": 100
 								},
 								{
-									"name": "5: 5428",
+									"name": "5: 5491",
 									"value": 100
 								},
 								{
-									"name": "6: 6637",
+									"name": "6: 6569",
 									"value": 100
 								},
 								{
-									"name": "7: 7443",
+									"name": "7: No Score",
 									"value": 100
 								},
 								{
-									"name": "8: 8286",
+									"name": "8: No Score",
 									"value": 100
 								},
 								{
@@ -4643,6 +4413,236 @@ const data = {
 								},
 								{
 									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HIDE",
+					"children": [
+						{
+							"name": "Words",
+							"children": [
+								{
+									"name": "1: 1907",
+									"value": 100
+								},
+								{
+									"name": "2: 3003",
+									"value": 100
+								},
+								{
+									"name": "3: 3928",
+									"value": 100
+								},
+								{
+									"name": "4: 4911",
+									"value": 100
+								},
+								{
+									"name": "5: 5712",
+									"value": 100
+								},
+								{
+									"name": "6: 6626",
+									"value": 100
+								},
+								{
+									"name": "7: 7293",
+									"value": 100
+								},
+								{
+									"name": "8: 8223",
+									"value": 100
+								},
+								{
+									"name": "9: 9266",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Numbers",
+							"children": [
+								{
+									"name": "1: 2166",
+									"value": 100
+								},
+								{
+									"name": "2: 2875",
+									"value": 100
+								},
+								{
+									"name": "3: 3429",
+									"value": 100
+								},
+								{
+									"name": "4: 4269",
+									"value": 100
+								},
+								{
+									"name": "5: 5248",
+									"value": 100
+								},
+								{
+									"name": "6: 6295",
+									"value": 100
+								},
+								{
+									"name": "7: 7304",
+									"value": 100
+								},
+								{
+									"name": "8: 8055",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Relay",
+							"children": [
+								{
+									"name": "1: 1871",
+									"value": 100
+								},
+								{
+									"name": "2: 2869",
+									"value": 100
+								},
+								{
+									"name": "3: 3793",
+									"value": 100
+								},
+								{
+									"name": "4: 4785",
+									"value": 100
+								},
+								{
+									"name": "5: 5712",
+									"value": 100
+								},
+								{
+									"name": "6: 6450",
+									"value": 100
+								},
+								{
+									"name": "7: 7318",
+									"value": 100
+								},
+								{
+									"name": "8: 8320",
+									"value": 100
+								},
+								{
+									"name": "9: 9172",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sequence",
+							"children": [
+								{
+									"name": "1: 1858",
+									"value": 100
+								},
+								{
+									"name": "2: 3009",
+									"value": 100
+								},
+								{
+									"name": "3: 3955",
+									"value": 100
+								},
+								{
+									"name": "4: 4735",
+									"value": 100
+								},
+								{
+									"name": "5: 5732",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Spellinator",
+							"children": [
+								{
+									"name": "1: 2055",
+									"value": 100
+								},
+								{
+									"name": "2: 3022",
+									"value": 100
+								},
+								{
+									"name": "3: 3908",
+									"value": 100
+								},
+								{
+									"name": "4: 4872",
+									"value": 100
+								},
+								{
+									"name": "5: 5428",
+									"value": 100
+								},
+								{
+									"name": "6: 6637",
+									"value": 100
+								},
+								{
+									"name": "7: 7443",
+									"value": 100
+								},
+								{
+									"name": "8: 8286",
 									"value": 100
 								},
 								{
@@ -6549,6 +6549,101 @@ const data = {
 					]
 				},
 				{
+					"name": "CONTROL",
+					"children": [
+						{
+							"name": "Bop",
+							"children": [
+								{
+									"name": "1: 2006",
+									"value": 100
+								},
+								{
+									"name": "2: 2959",
+									"value": 100
+								},
+								{
+									"name": "3: 3972",
+									"value": 100
+								},
+								{
+									"name": "4: 4875",
+									"value": 100
+								},
+								{
+									"name": "5: 5265",
+									"value": 100
+								},
+								{
+									"name": "6: 6570",
+									"value": 100
+								},
+								{
+									"name": "7: 7659",
+									"value": 100
+								},
+								{
+									"name": "8: 8237",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Labyrinth",
+							"children": [
+								{
+									"name": "1: 1892",
+									"value": 100
+								},
+								{
+									"name": "2: 2894",
+									"value": 100
+								},
+								{
+									"name": "3: 3560",
+									"value": 100
+								},
+								{
+									"name": "4: 4730",
+									"value": 100
+								},
+								{
+									"name": "5: 5696",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
 					"name": "LASER",
 					"children": [
 						{
@@ -6764,101 +6859,6 @@ const data = {
 								},
 								{
 									"name": "8: 8200",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "CONTROL",
-					"children": [
-						{
-							"name": "Bop",
-							"children": [
-								{
-									"name": "1: 2006",
-									"value": 100
-								},
-								{
-									"name": "2: 2959",
-									"value": 100
-								},
-								{
-									"name": "3: 3972",
-									"value": 100
-								},
-								{
-									"name": "4: 4875",
-									"value": 100
-								},
-								{
-									"name": "5: 5265",
-									"value": 100
-								},
-								{
-									"name": "6: 6570",
-									"value": 100
-								},
-								{
-									"name": "7: 7659",
-									"value": 100
-								},
-								{
-									"name": "8: 8237",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Labyrinth",
-							"children": [
-								{
-									"name": "1: 1892",
-									"value": 100
-								},
-								{
-									"name": "2: 2894",
-									"value": 100
-								},
-								{
-									"name": "3: 3560",
-									"value": 100
-								},
-								{
-									"name": "4: 4730",
-									"value": 100
-								},
-								{
-									"name": "5: 5696",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
 									"value": 100
 								},
 								{
@@ -7569,191 +7569,6 @@ const data = {
 			"name": "Hooooooooooosben",
 			"children": [
 				{
-					"name": "GRID",
-					"children": [
-						{
-							"name": "Grid",
-							"children": [
-								{
-									"name": "1: 1918",
-									"value": 100
-								},
-								{
-									"name": "2: 2723",
-									"value": 100
-								},
-								{
-									"name": "3: 3667",
-									"value": 100
-								},
-								{
-									"name": "4: 4395",
-									"value": 100
-								},
-								{
-									"name": "5: 5544",
-									"value": 100
-								},
-								{
-									"name": "6: 6350",
-									"value": 100
-								},
-								{
-									"name": "7: 7384",
-									"value": 100
-								},
-								{
-									"name": "8: 8450",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Flash Mines",
-							"children": [
-								{
-									"name": "1: 1740",
-									"value": 100
-								},
-								{
-									"name": "2: 2790",
-									"value": 100
-								},
-								{
-									"name": "3: 3779",
-									"value": 100
-								},
-								{
-									"name": "4: 4822",
-									"value": 100
-								},
-								{
-									"name": "5: 5526",
-									"value": 100
-								},
-								{
-									"name": "6: 6546",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Strategy",
-							"children": [
-								{
-									"name": "1: 1906",
-									"value": 100
-								},
-								{
-									"name": "2: 2887",
-									"value": 100
-								},
-								{
-									"name": "3: 3704",
-									"value": 100
-								},
-								{
-									"name": "4: 4772",
-									"value": 100
-								},
-								{
-									"name": "5: No Score",
-									"value": 100
-								},
-								{
-									"name": "6: No Score",
-									"value": 100
-								},
-								{
-									"name": "7: No Score",
-									"value": 100
-								},
-								{
-									"name": "8: No Score",
-									"value": 100
-								},
-								{
-									"name": "9: No Score",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Zones",
-							"children": [
-								{
-									"name": "1: 1789",
-									"value": 100
-								},
-								{
-									"name": "2: 2815",
-									"value": 100
-								},
-								{
-									"name": "3: 3789",
-									"value": 100
-								},
-								{
-									"name": "4: 4813",
-									"value": 100
-								},
-								{
-									"name": "5: 5809",
-									"value": 100
-								},
-								{
-									"name": "6: 6630",
-									"value": 100
-								},
-								{
-									"name": "7: 7801",
-									"value": 100
-								},
-								{
-									"name": "8: 8513",
-									"value": 100
-								},
-								{
-									"name": "9: 9654",
-									"value": 100
-								},
-								{
-									"name": "10: 10518",
-									"value": 100
-								}
-							]
-						}
-					]
-				},
-				{
 					"name": "HOOPS",
 					"children": [
 						{
@@ -7939,86 +7754,41 @@ const data = {
 					]
 				},
 				{
-					"name": "HIDE",
+					"name": "GRID",
 					"children": [
 						{
-							"name": "Words",
+							"name": "Grid",
 							"children": [
 								{
-									"name": "1: 1907",
+									"name": "1: 1918",
 									"value": 100
 								},
 								{
-									"name": "2: 3003",
+									"name": "2: 2723",
 									"value": 100
 								},
 								{
-									"name": "3: 3928",
+									"name": "3: 3667",
 									"value": 100
 								},
 								{
-									"name": "4: 4911",
+									"name": "4: 4395",
 									"value": 100
 								},
 								{
-									"name": "5: 5712",
+									"name": "5: 5544",
 									"value": 100
 								},
 								{
-									"name": "6: 6626",
+									"name": "6: 6350",
 									"value": 100
 								},
 								{
-									"name": "7: 7293",
+									"name": "7: 7384",
 									"value": 100
 								},
 								{
-									"name": "8: 8223",
-									"value": 100
-								},
-								{
-									"name": "9: 9266",
-									"value": 100
-								},
-								{
-									"name": "10: No Score",
-									"value": 100
-								}
-							]
-						},
-						{
-							"name": "Numbers",
-							"children": [
-								{
-									"name": "1: 2166",
-									"value": 100
-								},
-								{
-									"name": "2: 2875",
-									"value": 100
-								},
-								{
-									"name": "3: 3364",
-									"value": 100
-								},
-								{
-									"name": "4: 4269",
-									"value": 100
-								},
-								{
-									"name": "5: 5248",
-									"value": 100
-								},
-								{
-									"name": "6: 6295",
-									"value": 100
-								},
-								{
-									"name": "7: 7304",
-									"value": 100
-								},
-								{
-									"name": "8: 8055",
+									"name": "8: 8450",
 									"value": 100
 								},
 								{
@@ -8032,71 +7802,71 @@ const data = {
 							]
 						},
 						{
-							"name": "Relay",
+							"name": "Flash Mines",
 							"children": [
 								{
-									"name": "1: 1922",
+									"name": "1: 1740",
 									"value": 100
 								},
 								{
-									"name": "2: 2869",
+									"name": "2: 2790",
 									"value": 100
 								},
 								{
-									"name": "3: 3793",
+									"name": "3: 3779",
 									"value": 100
 								},
 								{
-									"name": "4: 4716",
+									"name": "4: 4822",
 									"value": 100
 								},
 								{
-									"name": "5: 5712",
+									"name": "5: 5526",
 									"value": 100
 								},
 								{
-									"name": "6: 6536",
+									"name": "6: 6546",
 									"value": 100
 								},
 								{
-									"name": "7: 7345",
+									"name": "7: No Score",
 									"value": 100
 								},
 								{
-									"name": "8: 8320",
+									"name": "8: No Score",
 									"value": 100
 								},
 								{
-									"name": "9: 9172",
+									"name": "9: No Score",
 									"value": 100
 								},
 								{
-									"name": "10: 10257",
+									"name": "10: No Score",
 									"value": 100
 								}
 							]
 						},
 						{
-							"name": "Sequence",
+							"name": "Strategy",
 							"children": [
 								{
-									"name": "1: 1858",
+									"name": "1: 1906",
 									"value": 100
 								},
 								{
-									"name": "2: 3009",
+									"name": "2: 2887",
 									"value": 100
 								},
 								{
-									"name": "3: 3744",
+									"name": "3: 3704",
 									"value": 100
 								},
 								{
-									"name": "4: 4485",
+									"name": "4: 4772",
 									"value": 100
 								},
 								{
-									"name": "5: 5732",
+									"name": "5: No Score",
 									"value": 100
 								},
 								{
@@ -8122,46 +7892,46 @@ const data = {
 							]
 						},
 						{
-							"name": "Spellinator",
+							"name": "Zones",
 							"children": [
 								{
-									"name": "1: 2055",
+									"name": "1: 1789",
 									"value": 100
 								},
 								{
-									"name": "2: 3022",
+									"name": "2: 2815",
 									"value": 100
 								},
 								{
-									"name": "3: 3782",
+									"name": "3: 3789",
 									"value": 100
 								},
 								{
-									"name": "4: 4740",
+									"name": "4: 4813",
 									"value": 100
 								},
 								{
-									"name": "5: 5428",
+									"name": "5: 5809",
 									"value": 100
 								},
 								{
-									"name": "6: 6345",
+									"name": "6: 6630",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7801",
 									"value": 100
 								},
 								{
-									"name": "8: 8281",
+									"name": "8: 8513",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9654",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10518",
 									"value": 100
 								}
 							]
@@ -8429,6 +8199,236 @@ const data = {
 								},
 								{
 									"name": "9: 9361",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HIDE",
+					"children": [
+						{
+							"name": "Words",
+							"children": [
+								{
+									"name": "1: 1907",
+									"value": 100
+								},
+								{
+									"name": "2: 3003",
+									"value": 100
+								},
+								{
+									"name": "3: 3928",
+									"value": 100
+								},
+								{
+									"name": "4: 4911",
+									"value": 100
+								},
+								{
+									"name": "5: 5712",
+									"value": 100
+								},
+								{
+									"name": "6: 6626",
+									"value": 100
+								},
+								{
+									"name": "7: 7293",
+									"value": 100
+								},
+								{
+									"name": "8: 8223",
+									"value": 100
+								},
+								{
+									"name": "9: 9266",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Numbers",
+							"children": [
+								{
+									"name": "1: 2166",
+									"value": 100
+								},
+								{
+									"name": "2: 2875",
+									"value": 100
+								},
+								{
+									"name": "3: 3364",
+									"value": 100
+								},
+								{
+									"name": "4: 4269",
+									"value": 100
+								},
+								{
+									"name": "5: 5248",
+									"value": 100
+								},
+								{
+									"name": "6: 6295",
+									"value": 100
+								},
+								{
+									"name": "7: 7304",
+									"value": 100
+								},
+								{
+									"name": "8: 8055",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Relay",
+							"children": [
+								{
+									"name": "1: 1922",
+									"value": 100
+								},
+								{
+									"name": "2: 2869",
+									"value": 100
+								},
+								{
+									"name": "3: 3793",
+									"value": 100
+								},
+								{
+									"name": "4: 4716",
+									"value": 100
+								},
+								{
+									"name": "5: 5712",
+									"value": 100
+								},
+								{
+									"name": "6: 6536",
+									"value": 100
+								},
+								{
+									"name": "7: 7345",
+									"value": 100
+								},
+								{
+									"name": "8: 8320",
+									"value": 100
+								},
+								{
+									"name": "9: 9172",
+									"value": 100
+								},
+								{
+									"name": "10: 10257",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sequence",
+							"children": [
+								{
+									"name": "1: 1858",
+									"value": 100
+								},
+								{
+									"name": "2: 3009",
+									"value": 100
+								},
+								{
+									"name": "3: 3744",
+									"value": 100
+								},
+								{
+									"name": "4: 4485",
+									"value": 100
+								},
+								{
+									"name": "5: 5732",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Spellinator",
+							"children": [
+								{
+									"name": "1: 2055",
+									"value": 100
+								},
+								{
+									"name": "2: 3022",
+									"value": 100
+								},
+								{
+									"name": "3: 3782",
+									"value": 100
+								},
+								{
+									"name": "4: 4740",
+									"value": 100
+								},
+								{
+									"name": "5: 5428",
+									"value": 100
+								},
+								{
+									"name": "6: 6345",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: 8281",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
 									"value": 100
 								},
 								{
@@ -9436,6 +9436,3788 @@ const data = {
 								},
 								{
 									"name": "7: 7483",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "CalvinsBiscuits",
+			"children": [
+				{
+					"name": "GRID",
+					"children": [
+						{
+							"name": "Grid",
+							"children": [
+								{
+									"name": "1: 1807",
+									"value": 100
+								},
+								{
+									"name": "2: 2777",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Flash Mines",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Strategy",
+							"children": [
+								{
+									"name": "1: 2037",
+									"value": 100
+								},
+								{
+									"name": "2: 2917",
+									"value": 100
+								},
+								{
+									"name": "3: 3466",
+									"value": 100
+								},
+								{
+									"name": "4: 4633",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zones",
+							"children": [
+								{
+									"name": "1: 1835",
+									"value": 100
+								},
+								{
+									"name": "2: 2874",
+									"value": 100
+								},
+								{
+									"name": "3: 3816",
+									"value": 100
+								},
+								{
+									"name": "4: 4838",
+									"value": 100
+								},
+								{
+									"name": "5: 5245",
+									"value": 100
+								},
+								{
+									"name": "6: 6550",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HOOPS",
+					"children": [
+						{
+							"name": "Simon Says",
+							"children": [
+								{
+									"name": "1: 1898",
+									"value": 100
+								},
+								{
+									"name": "2: 2877",
+									"value": 100
+								},
+								{
+									"name": "3: 3734",
+									"value": 100
+								},
+								{
+									"name": "4: 4553",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Trivial",
+							"children": [
+								{
+									"name": "1: 1960",
+									"value": 100
+								},
+								{
+									"name": "2: 2825",
+									"value": 100
+								},
+								{
+									"name": "3: 3741",
+									"value": 100
+								},
+								{
+									"name": "4: 4748",
+									"value": 100
+								},
+								{
+									"name": "5: 5661",
+									"value": 100
+								},
+								{
+									"name": "6: 6677",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Barrage",
+							"children": [
+								{
+									"name": "1: 1789",
+									"value": 100
+								},
+								{
+									"name": "2: 2713",
+									"value": 100
+								},
+								{
+									"name": "3: 3556",
+									"value": 100
+								},
+								{
+									"name": "4: 4336",
+									"value": 100
+								},
+								{
+									"name": "5: 5323",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "15 Green",
+							"children": [
+								{
+									"name": "1: 1803",
+									"value": 100
+								},
+								{
+									"name": "2: 2890",
+									"value": 100
+								},
+								{
+									"name": "3: 3711",
+									"value": 100
+								},
+								{
+									"name": "4: 4757",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HIDE",
+					"children": [
+						{
+							"name": "Words",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Numbers",
+							"children": [
+								{
+									"name": "1: 2061",
+									"value": 100
+								},
+								{
+									"name": "2: 2969",
+									"value": 100
+								},
+								{
+									"name": "3: 3736",
+									"value": 100
+								},
+								{
+									"name": "4: 4549",
+									"value": 100
+								},
+								{
+									"name": "5: 5338",
+									"value": 100
+								},
+								{
+									"name": "6: 6246",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Relay",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sequence",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Spellinator",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "MEGA GRID",
+					"children": [
+						{
+							"name": "Mega Grid",
+							"children": [
+								{
+									"name": "1: 1555",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Jigsaw",
+							"children": [
+								{
+									"name": "1: 1662",
+									"value": 100
+								},
+								{
+									"name": "2: 2489",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Order Up",
+							"children": [
+								{
+									"name": "1: 1803",
+									"value": 100
+								},
+								{
+									"name": "2: 2231",
+									"value": 100
+								},
+								{
+									"name": "3: 3438",
+									"value": 100
+								},
+								{
+									"name": "4: 4084",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Zones",
+							"children": [
+								{
+									"name": "1: 1760",
+									"value": 100
+								},
+								{
+									"name": "2: 2619",
+									"value": 100
+								},
+								{
+									"name": "3: 3732",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Statues",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Relay",
+							"children": [
+								{
+									"name": "1: 1803",
+									"value": 100
+								},
+								{
+									"name": "2: 2687",
+									"value": 100
+								},
+								{
+									"name": "3: 3652",
+									"value": 100
+								},
+								{
+									"name": "4: 4649",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "LASER",
+					"children": [
+						{
+							"name": "Maze",
+							"children": [
+								{
+									"name": "1: 1920",
+									"value": 100
+								},
+								{
+									"name": "2: 2703",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Gauntlet",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zap",
+							"children": [
+								{
+									"name": "1: 1994",
+									"value": 100
+								},
+								{
+									"name": "2: 2982",
+									"value": 100
+								},
+								{
+									"name": "3: 3934",
+									"value": 100
+								},
+								{
+									"name": "4: 4895",
+									"value": 100
+								},
+								{
+									"name": "5: 5628",
+									"value": 100
+								},
+								{
+									"name": "6: 6635",
+									"value": 100
+								},
+								{
+									"name": "7: 7516",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Defuse",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Laser Relay",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "CONTROL",
+					"children": [
+						{
+							"name": "Bop",
+							"children": [
+								{
+									"name": "1: 1850",
+									"value": 100
+								},
+								{
+									"name": "2: 2869",
+									"value": 100
+								},
+								{
+									"name": "3: 3884",
+									"value": 100
+								},
+								{
+									"name": "4: 4659",
+									"value": 100
+								},
+								{
+									"name": "5: 5334",
+									"value": 100
+								},
+								{
+									"name": "6: 6404",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Labyrinth",
+							"children": [
+								{
+									"name": "1: 1442",
+									"value": 100
+								},
+								{
+									"name": "2: 2784",
+									"value": 100
+								},
+								{
+									"name": "3: 3636",
+									"value": 100
+								},
+								{
+									"name": "4: 4642",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "STRIKE",
+					"children": [
+						{
+							"name": "Flip",
+							"children": [
+								{
+									"name": "1: 1843",
+									"value": 100
+								},
+								{
+									"name": "2: 2628",
+									"value": 100
+								},
+								{
+									"name": "3: 3536",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Dartmouth",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Asteroids",
+							"children": [
+								{
+									"name": "1: 1945",
+									"value": 100
+								},
+								{
+									"name": "2: 2721",
+									"value": 100
+								},
+								{
+									"name": "3: 3498",
+									"value": 100
+								},
+								{
+									"name": "4: 4236",
+									"value": 100
+								},
+								{
+									"name": "5: 5419",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Terminal",
+							"children": [
+								{
+									"name": "1: 1858",
+									"value": 100
+								},
+								{
+									"name": "2: 2763",
+									"value": 100
+								},
+								{
+									"name": "3: 3610",
+									"value": 100
+								},
+								{
+									"name": "4: 4309",
+									"value": 100
+								},
+								{
+									"name": "5: 5403",
+									"value": 100
+								},
+								{
+									"name": "6: 6298",
+									"value": 100
+								},
+								{
+									"name": "7: 7305",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Seeker",
+							"children": [
+								{
+									"name": "1: 2059",
+									"value": 100
+								},
+								{
+									"name": "2: 2835",
+									"value": 100
+								},
+								{
+									"name": "3: 3805",
+									"value": 100
+								},
+								{
+									"name": "4: 4802",
+									"value": 100
+								},
+								{
+									"name": "5: 5613",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PORTALS",
+					"children": [
+						{
+							"name": "Wormholes",
+							"children": [
+								{
+									"name": "1: 1562",
+									"value": 100
+								},
+								{
+									"name": "2: 2595",
+									"value": 100
+								},
+								{
+									"name": "3: 3220",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Jumble",
+							"children": [
+								{
+									"name": "1: 1829",
+									"value": 100
+								},
+								{
+									"name": "2: 2558",
+									"value": 100
+								},
+								{
+									"name": "3: 3453",
+									"value": 100
+								},
+								{
+									"name": "4: 4489",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Oddball",
+							"children": [
+								{
+									"name": "1: 1774",
+									"value": 100
+								},
+								{
+									"name": "2: 2882",
+									"value": 100
+								},
+								{
+									"name": "3: 3330",
+									"value": 100
+								},
+								{
+									"name": "4: 4097",
+									"value": 100
+								},
+								{
+									"name": "5: 5784",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Stopwatch",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PRESS",
+					"children": [
+						{
+							"name": "100",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Gems",
+							"children": [
+								{
+									"name": "1: 2038",
+									"value": 100
+								},
+								{
+									"name": "2: 3015",
+									"value": 100
+								},
+								{
+									"name": "3: 3897",
+									"value": 100
+								},
+								{
+									"name": "4: 4735",
+									"value": 100
+								},
+								{
+									"name": "5: 5428",
+									"value": 100
+								},
+								{
+									"name": "6: 6608",
+									"value": 100
+								},
+								{
+									"name": "7: 7391",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Link",
+							"children": [
+								{
+									"name": "1: 1886",
+									"value": 100
+								},
+								{
+									"name": "2: 2670",
+									"value": 100
+								},
+								{
+									"name": "3: 3560",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mines",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Undercover",
+							"children": [
+								{
+									"name": "1: 1678",
+									"value": 100
+								},
+								{
+									"name": "2: 2309",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Bullet Train",
+							"children": [
+								{
+									"name": "1: 1587",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Skula",
+			"children": [
+				{
+					"name": "HOOPS",
+					"children": [
+						{
+							"name": "Simon Says",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Trivial",
+							"children": [
+								{
+									"name": "1: 1960",
+									"value": 100
+								},
+								{
+									"name": "2: 2825",
+									"value": 100
+								},
+								{
+									"name": "3: 3741",
+									"value": 100
+								},
+								{
+									"name": "4: 4748",
+									"value": 100
+								},
+								{
+									"name": "5: 5661",
+									"value": 100
+								},
+								{
+									"name": "6: 6677",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Barrage",
+							"children": [
+								{
+									"name": "1: 1789",
+									"value": 100
+								},
+								{
+									"name": "2: 2713",
+									"value": 100
+								},
+								{
+									"name": "3: 3556",
+									"value": 100
+								},
+								{
+									"name": "4: 4336",
+									"value": 100
+								},
+								{
+									"name": "5: 5323",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "15 Green",
+							"children": [
+								{
+									"name": "1: 1626",
+									"value": 100
+								},
+								{
+									"name": "2: 2739",
+									"value": 100
+								},
+								{
+									"name": "3: 3473",
+									"value": 100
+								},
+								{
+									"name": "4: 4714",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "GRID",
+					"children": [
+						{
+							"name": "Grid",
+							"children": [
+								{
+									"name": "1: 1867",
+									"value": 100
+								},
+								{
+									"name": "2: 2812",
+									"value": 100
+								},
+								{
+									"name": "3: 3710",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Flash Mines",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Strategy",
+							"children": [
+								{
+									"name": "1: 2037",
+									"value": 100
+								},
+								{
+									"name": "2: 2917",
+									"value": 100
+								},
+								{
+									"name": "3: 3466",
+									"value": 100
+								},
+								{
+									"name": "4: 4633",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zones",
+							"children": [
+								{
+									"name": "1: 1835",
+									"value": 100
+								},
+								{
+									"name": "2: 2907",
+									"value": 100
+								},
+								{
+									"name": "3: 3830",
+									"value": 100
+								},
+								{
+									"name": "4: 4860",
+									"value": 100
+								},
+								{
+									"name": "5: 5808",
+									"value": 100
+								},
+								{
+									"name": "6: 6550",
+									"value": 100
+								},
+								{
+									"name": "7: 7664",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HIDE",
+					"children": [
+						{
+							"name": "Words",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Numbers",
+							"children": [
+								{
+									"name": "1: 1853",
+									"value": 100
+								},
+								{
+									"name": "2: 2969",
+									"value": 100
+								},
+								{
+									"name": "3: 3499",
+									"value": 100
+								},
+								{
+									"name": "4: 4549",
+									"value": 100
+								},
+								{
+									"name": "5: 5338",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Relay",
+							"children": [
+								{
+									"name": "1: 1896",
+									"value": 100
+								},
+								{
+									"name": "2: 2777",
+									"value": 100
+								},
+								{
+									"name": "3: 3657",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sequence",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Spellinator",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "MEGA GRID",
+					"children": [
+						{
+							"name": "Mega Grid",
+							"children": [
+								{
+									"name": "1: 1785",
+									"value": 100
+								},
+								{
+									"name": "2: 2592",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Jigsaw",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Order Up",
+							"children": [
+								{
+									"name": "1: 1803",
+									"value": 100
+								},
+								{
+									"name": "2: 2231",
+									"value": 100
+								},
+								{
+									"name": "3: 3438",
+									"value": 100
+								},
+								{
+									"name": "4: 4084",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Zones",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Statues",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Relay",
+							"children": [
+								{
+									"name": "1: 1803",
+									"value": 100
+								},
+								{
+									"name": "2: 2687",
+									"value": 100
+								},
+								{
+									"name": "3: 3652",
+									"value": 100
+								},
+								{
+									"name": "4: 4649",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "LASER",
+					"children": [
+						{
+							"name": "Maze",
+							"children": [
+								{
+									"name": "1: 1920",
+									"value": 100
+								},
+								{
+									"name": "2: 2703",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Gauntlet",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zap",
+							"children": [
+								{
+									"name": "1: 1960",
+									"value": 100
+								},
+								{
+									"name": "2: 2982",
+									"value": 100
+								},
+								{
+									"name": "3: 3934",
+									"value": 100
+								},
+								{
+									"name": "4: 4895",
+									"value": 100
+								},
+								{
+									"name": "5: 5628",
+									"value": 100
+								},
+								{
+									"name": "6: 6635",
+									"value": 100
+								},
+								{
+									"name": "7: 7516",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Defuse",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Laser Relay",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "CONTROL",
+					"children": [
+						{
+							"name": "Bop",
+							"children": [
+								{
+									"name": "1: 1850",
+									"value": 100
+								},
+								{
+									"name": "2: 2869",
+									"value": 100
+								},
+								{
+									"name": "3: 3884",
+									"value": 100
+								},
+								{
+									"name": "4: 4659",
+									"value": 100
+								},
+								{
+									"name": "5: 5407",
+									"value": 100
+								},
+								{
+									"name": "6: 6404",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Labyrinth",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "STRIKE",
+					"children": [
+						{
+							"name": "Flip",
+							"children": [
+								{
+									"name": "1: 1843",
+									"value": 100
+								},
+								{
+									"name": "2: 2628",
+									"value": 100
+								},
+								{
+									"name": "3: 3536",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Dartmouth",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Asteroids",
+							"children": [
+								{
+									"name": "1: 1947",
+									"value": 100
+								},
+								{
+									"name": "2: 2766",
+									"value": 100
+								},
+								{
+									"name": "3: 3498",
+									"value": 100
+								},
+								{
+									"name": "4: 4236",
+									"value": 100
+								},
+								{
+									"name": "5: 5419",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Terminal",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Seeker",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PORTALS",
+					"children": [
+						{
+							"name": "Wormholes",
+							"children": [
+								{
+									"name": "1: 1575",
+									"value": 100
+								},
+								{
+									"name": "2: 2595",
+									"value": 100
+								},
+								{
+									"name": "3: 3220",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Jumble",
+							"children": [
+								{
+									"name": "1: 1829",
+									"value": 100
+								},
+								{
+									"name": "2: 2558",
+									"value": 100
+								},
+								{
+									"name": "3: 3453",
+									"value": 100
+								},
+								{
+									"name": "4: 4489",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Oddball",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Stopwatch",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PRESS",
+					"children": [
+						{
+							"name": "100",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Gems",
+							"children": [
+								{
+									"name": "1: 2038",
+									"value": 100
+								},
+								{
+									"name": "2: 3077",
+									"value": 100
+								},
+								{
+									"name": "3: 3897",
+									"value": 100
+								},
+								{
+									"name": "4: 4735",
+									"value": 100
+								},
+								{
+									"name": "5: 5428",
+									"value": 100
+								},
+								{
+									"name": "6: 6608",
+									"value": 100
+								},
+								{
+									"name": "7: 7391",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Link",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mines",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Undercover",
+							"children": [
+								{
+									"name": "1: 1678",
+									"value": 100
+								},
+								{
+									"name": "2: 2309",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Bullet Train",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
 									"value": 100
 								},
 								{
