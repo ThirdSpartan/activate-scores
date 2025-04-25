@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <div id="container" style="width:50rem;height:50rem"></div>
-<script src="js/d3.v7.min.js"></script>
-<script src="js/activate_scores.js"></script>
+<script src="d3.v7.min.js"></script>
+<script src="activate_scores.js"></script>
 <script type="module">
 
   // Specify the chart’s dimensions.
@@ -40,7 +40,25 @@
     .selectAll("path")
     .data(root.descendants().slice(1))
     .join("path")
-      .attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
+      .attr("fill", d => { 
+        if (d.data.name.includes("No Score")) {
+          return d3.color("black");
+        } else { 
+          if (d.depth === 3){
+            let found_score = false;
+            for (let score of d.children){
+              if (!score.data.name.includes("No Score")) {
+                found_score = true;
+              }
+            }
+            if (!found_score) {
+              return d3.color("black");
+            }
+          }
+          while (d.depth > 1) d = d.parent; 
+          return color(d.data.name);} 
+        }
+      )
       .attr("fill-opacity", d => arcVisible(d.current) ? (d.children ? 0.6 : 0.4) : 0)
       .attr("pointer-events", d => arcVisible(d.current) ? "auto" : "none")
 
