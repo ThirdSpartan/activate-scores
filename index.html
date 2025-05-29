@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<div id="container" style="width:50rem;height:50rem"></div>
+<body style="margin: 0; height:100vh; width: 100vw;">
+<div style="display: flex; height:100%; width: 100%; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div id="container" style="width:95vmin;"></div>
+</div>
+</body>
 <script src="js/d3.v7.min.js"></script>
 <script src="js/activate_scores.js"></script>
 <script type="module">
@@ -33,7 +37,7 @@
   // Create the SVG container.
   const svg = d3.create("svg")
       .attr("viewBox", [-width / 2, -height / 2, width, width])
-      .style("font", "10px sans-serif");
+      .style("font", "16px sans-serif");
 
   // Append the arcs.
   const path = svg.append("g")
