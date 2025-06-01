@@ -1,13 +1,26 @@
 <!DOCTYPE html>
+<html lang="en">
 <body style="margin: 0; height:100vh; width: 100vw;">
-<div style="display: flex; height:100%; width: 100%; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div id="container" style="width:95vmin;"></div>
+<div class="main-content">
+  <div id="radios" class="radios">
+    <label><input type="radio" name="filter" value="Default" onclick="filterData(FilterMode.DEFAULT)" checked />Default</label>
+    <label><input type="radio" name="filter" value="Union" onclick="filterData(FilterMode.UNION)" />Union</label>
+    <label><input type="radio" name="filter" value="Intersection" onclick="filterData(FilterMode.INTERSECTION)" />Intersection</label>
+  </div>
+  <div id="container" style="width:90vmin;"></div>
+  <div id="checkboxes" class="checkboxes" style="height:5vmin;"></div>
 </div>
-</body>
 <script src="js/d3.v7.min.js"></script>
 <script src="js/activate_scores.js"></script>
-<script type="module">
+<script>
 
+const FilterMode = {
+  DEFAULT: 'Default',
+  UNION: 'Union',
+  INTERSECTION: 'Intersection'
+}
+
+function drawGraph(input) {
   // Specify the chart’s dimensions.
   const width = 928;
   const height = width;
@@ -17,7 +30,7 @@
   const color = d3.scaleOrdinal(d3.quantize(d3.interpolateRainbow, data.children.length + 1));
 
   // Compute the layout.
-  const hierarchy = d3.hierarchy(data)
+  const hierarchy = d3.hierarchy(input)
       .sum(d => d.value)
       .sort((a, b) => b.value - a.value);
   const root = d3.partition()
@@ -152,7 +165,129 @@
   }
 
   container.append(svg.node());
+}
 
+function filterData(filterMode = FilterMode.DEFAULT) {
+  let dataCopy = JSON.parse(JSON.stringify(data))
+  for (const player of playerMap.keys()) {
+    if (!playerMap.get(player)) {
+      const index = dataCopy['children'].findIndex(gamer => gamer['name'] === player)
+      dataCopy['children'].splice(index, 1)
+    }
+  }
+  const graphContainer = document.getElementById('container');
+  graphContainer.innerHTML = ''
+  if (filterMode === FilterMode.DEFAULT) {
+    drawGraph(dataCopy)
+  } else {
+    let filterData = {
+      name: "Scores",
+      children: [
+        {
+          name: filterMode,
+          children: []
+        }
+      ]
+    }
+    for (const [playerIndex, player] of dataCopy['children'].entries()) {
+      for (const [roomIndex, room] of player['children'].entries()) {
+        let playerFilter = filterData['children'][0]
+        if (playerFilter['children'].findIndex(roomCheck => roomCheck['name'] === room['name']) === -1){
+          playerFilter['children'].push({
+            name: room['name'],
+            children: []
+          })
+        }
+        let roomFilter = filterData['children'][0]['children'][roomIndex]
+        for (const [gameIndex, game] of room['children'].entries()) {
+          if (roomFilter['children'].findIndex(gameCheck => gameCheck['name'] === game['name']) === -1){
+            roomFilter['children'].push({
+              name: game['name'],
+              children: []
+            })
+          }
+          let gameFilter = filterData['children'][0]['children'][roomIndex]['children'][gameIndex]
+          for (const [scoreIndex, score] of game['children'].entries()) {
+            
+            if (gameFilter['children'].length <= scoreIndex) {
+              gameFilter['children'].push({
+                name: score['name'],
+                value: 100
+              })
+            }
+            let scoreFilter = filterData['children'][0]['children'][roomIndex]['children'][gameIndex]['children'][scoreIndex]
+            if (filterMode === FilterMode.UNION) {
+              if (score['name'].includes('No Score')) {
+                scoreFilter['name'] = score['name']
+              }
+            }
+            else if (filterMode === FilterMode.INTERSECTION) {
+              if (!score['name'].includes('No Score') && scoreFilter['name'].includes('No Score')) {
+                scoreFilter['name'] = score['name']
+              }
+            }
+          }
+        }
+      }
+    }
+    drawGraph(filterData)
+  }
+}
+
+const playerMap = new Map()
+const checkboxes = document.getElementById('checkboxes');
+for (const player of data['children']){
+  const playerName = player['name']
+  playerMap.set(playerName, true)
+
+  const div = document.createElement('div')
+  const checkbox = document.createElement('input')
+  checkbox.type = 'checkbox'
+  checkbox.id = `checkbox-${playerName}`
+  checkbox.name = `checkbox-${playerName}`
+  checkbox.value = playerName
+  checkbox.checked = true
+
+  const label = document.createElement('label')
+  label.htmlFor = `checkbox-${playerName}`
+  label.textContent = `${playerName}`
+
+  div.appendChild(checkbox)
+  div.appendChild(label)
+  checkboxes.appendChild(div)
+}
+checkboxes.addEventListener('change', (event) => {
+  if (event.target.type === 'checkbox') {
+    playerMap.set(event.target.value, event.target.checked)
+    const checkedFilter = document.querySelector('input[name="filter"]:checked');
+    filterData(checkedFilter.value)
+  }
+})
 //   data = FileAttachment("activate-scores.json").json()
-
+filterData()
 </script>
+
+<style>
+  .main-content {
+    display: flex;
+    height:100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+  }
+  .checkboxes {
+    height:5vmin;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .radios {
+    height:5vmin;
+    display: flex;
+    align-items: center;
+  }
+</style>
+</body>
+</html>
