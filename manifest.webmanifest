@@ -1,11 +1,11 @@
 {
   "name": "Activate Scores",
-  "short_name": "ASPWA",
+  "short_name": "Activate",
   "description": "Activate Scores as a Progressive Web App",
   "scope": "/activate-scores/",
   "start_url": "/activate-scores/",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "slategray",
+  "theme_color": "slategray",
   "display": "standalone", 
   "icons": [
       {
