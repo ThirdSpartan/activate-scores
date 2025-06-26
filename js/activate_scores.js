@@ -2,6 +2,1897 @@ const data = {
 	"name": "Scores",
 	"children": [
 		{
+			"name": "B-Bunny",
+			"children": [
+				{
+					"name": "CONTROL",
+					"children": [
+						{
+							"name": "Bop",
+							"children": [
+								{
+									"name": "1: 2104",
+									"value": 100
+								},
+								{
+									"name": "2: 2982",
+									"value": 100
+								},
+								{
+									"name": "3: 4046",
+									"value": 100
+								},
+								{
+									"name": "4: 4900",
+									"value": 100
+								},
+								{
+									"name": "5: 5732",
+									"value": 100
+								},
+								{
+									"name": "6: 6736",
+									"value": 100
+								},
+								{
+									"name": "7: 7426",
+									"value": 100
+								},
+								{
+									"name": "8: 8346",
+									"value": 100
+								},
+								{
+									"name": "9: 9231",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Labyrinth",
+							"children": [
+								{
+									"name": "1: 1620",
+									"value": 100
+								},
+								{
+									"name": "2: 2839",
+									"value": 100
+								},
+								{
+									"name": "3: 3501",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "GRID",
+					"children": [
+						{
+							"name": "Flash Mines",
+							"children": [
+								{
+									"name": "1: 1789",
+									"value": 100
+								},
+								{
+									"name": "2: 2691",
+									"value": 100
+								},
+								{
+									"name": "3: 3728",
+									"value": 100
+								},
+								{
+									"name": "4: 4785",
+									"value": 100
+								},
+								{
+									"name": "5: 5651",
+									"value": 100
+								},
+								{
+									"name": "6: 6511",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Grid",
+							"children": [
+								{
+									"name": "1: 2011",
+									"value": 100
+								},
+								{
+									"name": "2: 2679",
+									"value": 100
+								},
+								{
+									"name": "3: 3830",
+									"value": 100
+								},
+								{
+									"name": "4: 4516",
+									"value": 100
+								},
+								{
+									"name": "5: 5498",
+									"value": 100
+								},
+								{
+									"name": "6: 6450",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Strategy",
+							"children": [
+								{
+									"name": "1: 1770",
+									"value": 100
+								},
+								{
+									"name": "2: 3073",
+									"value": 100
+								},
+								{
+									"name": "3: 3752",
+									"value": 100
+								},
+								{
+									"name": "4: 4697",
+									"value": 100
+								},
+								{
+									"name": "5: 5614",
+									"value": 100
+								},
+								{
+									"name": "6: 6402",
+									"value": 100
+								},
+								{
+									"name": "7: 7599",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zones",
+							"children": [
+								{
+									"name": "1: 1987",
+									"value": 100
+								},
+								{
+									"name": "2: 3017",
+									"value": 100
+								},
+								{
+									"name": "3: 3968",
+									"value": 100
+								},
+								{
+									"name": "4: 4915",
+									"value": 100
+								},
+								{
+									"name": "5: 5911",
+									"value": 100
+								},
+								{
+									"name": "6: 6860",
+									"value": 100
+								},
+								{
+									"name": "7: 7838",
+									"value": 100
+								},
+								{
+									"name": "8: 8857",
+									"value": 100
+								},
+								{
+									"name": "9: 9752",
+									"value": 100
+								},
+								{
+									"name": "10: 10459",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HIDE",
+					"children": [
+						{
+							"name": "Numbers",
+							"children": [
+								{
+									"name": "1: 2059",
+									"value": 100
+								},
+								{
+									"name": "2: 3022",
+									"value": 100
+								},
+								{
+									"name": "3: 3849",
+									"value": 100
+								},
+								{
+									"name": "4: 4602",
+									"value": 100
+								},
+								{
+									"name": "5: 5776",
+									"value": 100
+								},
+								{
+									"name": "6: 6367",
+									"value": 100
+								},
+								{
+									"name": "7: 7242",
+									"value": 100
+								},
+								{
+									"name": "8: 8134",
+									"value": 100
+								},
+								{
+									"name": "9: 9173",
+									"value": 100
+								},
+								{
+									"name": "10: 10304",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Relay",
+							"children": [
+								{
+									"name": "1: 1962",
+									"value": 100
+								},
+								{
+									"name": "2: 2960",
+									"value": 100
+								},
+								{
+									"name": "3: 3941",
+									"value": 100
+								},
+								{
+									"name": "4: 4889",
+									"value": 100
+								},
+								{
+									"name": "5: 5736",
+									"value": 100
+								},
+								{
+									"name": "6: 6685",
+									"value": 100
+								},
+								{
+									"name": "7: 7522",
+									"value": 100
+								},
+								{
+									"name": "8: 8115",
+									"value": 100
+								},
+								{
+									"name": "9: 9237",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sequence",
+							"children": [
+								{
+									"name": "1: 2022",
+									"value": 100
+								},
+								{
+									"name": "2: 2952",
+									"value": 100
+								},
+								{
+									"name": "3: 3720",
+									"value": 100
+								},
+								{
+									"name": "4: 4854",
+									"value": 100
+								},
+								{
+									"name": "5: 5889",
+									"value": 100
+								},
+								{
+									"name": "6: 6491",
+									"value": 100
+								},
+								{
+									"name": "7: 7671",
+									"value": 100
+								},
+								{
+									"name": "8: 8182",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Spellinator",
+							"children": [
+								{
+									"name": "1: 2104",
+									"value": 100
+								},
+								{
+									"name": "2: 2957",
+									"value": 100
+								},
+								{
+									"name": "3: 3966",
+									"value": 100
+								},
+								{
+									"name": "4: 4913",
+									"value": 100
+								},
+								{
+									"name": "5: 5786",
+									"value": 100
+								},
+								{
+									"name": "6: 6677",
+									"value": 100
+								},
+								{
+									"name": "7: 7465",
+									"value": 100
+								},
+								{
+									"name": "8: 8241",
+									"value": 100
+								},
+								{
+									"name": "9: 9306",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Words",
+							"children": [
+								{
+									"name": "1: 2093",
+									"value": 100
+								},
+								{
+									"name": "2: 3035",
+									"value": 100
+								},
+								{
+									"name": "3: 3952",
+									"value": 100
+								},
+								{
+									"name": "4: 4788",
+									"value": 100
+								},
+								{
+									"name": "5: 5870",
+									"value": 100
+								},
+								{
+									"name": "6: 6292",
+									"value": 100
+								},
+								{
+									"name": "7: 7234",
+									"value": 100
+								},
+								{
+									"name": "8: 8084",
+									"value": 100
+								},
+								{
+									"name": "9: 9065",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HOOPS",
+					"children": [
+						{
+							"name": "15 Green",
+							"children": [
+								{
+									"name": "1: 1900",
+									"value": 100
+								},
+								{
+									"name": "2: 2910",
+									"value": 100
+								},
+								{
+									"name": "3: 3770",
+									"value": 100
+								},
+								{
+									"name": "4: 4895",
+									"value": 100
+								},
+								{
+									"name": "5: 5746",
+									"value": 100
+								},
+								{
+									"name": "6: 6791",
+									"value": 100
+								},
+								{
+									"name": "7: 7736",
+									"value": 100
+								},
+								{
+									"name": "8: 8720",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Barrage",
+							"children": [
+								{
+									"name": "1: 2018",
+									"value": 100
+								},
+								{
+									"name": "2: 2960",
+									"value": 100
+								},
+								{
+									"name": "3: 3871",
+									"value": 100
+								},
+								{
+									"name": "4: 4770",
+									"value": 100
+								},
+								{
+									"name": "5: 5658",
+									"value": 100
+								},
+								{
+									"name": "6: 6629",
+									"value": 100
+								},
+								{
+									"name": "7: 7544",
+									"value": 100
+								},
+								{
+									"name": "8: 8442",
+									"value": 100
+								},
+								{
+									"name": "9: 9431",
+									"value": 100
+								},
+								{
+									"name": "10: 10356",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Simon Says",
+							"children": [
+								{
+									"name": "1: 1990",
+									"value": 100
+								},
+								{
+									"name": "2: 2964",
+									"value": 100
+								},
+								{
+									"name": "3: 3938",
+									"value": 100
+								},
+								{
+									"name": "4: 4795",
+									"value": 100
+								},
+								{
+									"name": "5: 5892",
+									"value": 100
+								},
+								{
+									"name": "6: 6899",
+									"value": 100
+								},
+								{
+									"name": "7: 7695",
+									"value": 100
+								},
+								{
+									"name": "8: 8656",
+									"value": 100
+								},
+								{
+									"name": "9: 9466",
+									"value": 100
+								},
+								{
+									"name": "10: 10580",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Trivial",
+							"children": [
+								{
+									"name": "1: 1998",
+									"value": 100
+								},
+								{
+									"name": "2: 2886",
+									"value": 100
+								},
+								{
+									"name": "3: 3966",
+									"value": 100
+								},
+								{
+									"name": "4: 4702",
+									"value": 100
+								},
+								{
+									"name": "5: 5791",
+									"value": 100
+								},
+								{
+									"name": "6: 6692",
+									"value": 100
+								},
+								{
+									"name": "7: 7699",
+									"value": 100
+								},
+								{
+									"name": "8: 8838",
+									"value": 100
+								},
+								{
+									"name": "9: 9614",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "MEGA GRID",
+					"children": [
+						{
+							"name": "Jigsaw",
+							"children": [
+								{
+									"name": "1: 1860",
+									"value": 100
+								},
+								{
+									"name": "2: 2901",
+									"value": 100
+								},
+								{
+									"name": "3: 3648",
+									"value": 100
+								},
+								{
+									"name": "4: 4633",
+									"value": 100
+								},
+								{
+									"name": "5: 5340",
+									"value": 100
+								},
+								{
+									"name": "6: 6340",
+									"value": 100
+								},
+								{
+									"name": "7: 7343",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Grid",
+							"children": [
+								{
+									"name": "1: 1815",
+									"value": 100
+								},
+								{
+									"name": "2: 2925",
+									"value": 100
+								},
+								{
+									"name": "3: 3773",
+									"value": 100
+								},
+								{
+									"name": "4: 4966",
+									"value": 100
+								},
+								{
+									"name": "5: 5560",
+									"value": 100
+								},
+								{
+									"name": "6: 6540",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Relay",
+							"children": [
+								{
+									"name": "1: 1893",
+									"value": 100
+								},
+								{
+									"name": "2: 2701",
+									"value": 100
+								},
+								{
+									"name": "3: 3763",
+									"value": 100
+								},
+								{
+									"name": "4: 4798",
+									"value": 100
+								},
+								{
+									"name": "5: 5532",
+									"value": 100
+								},
+								{
+									"name": "6: 6609",
+									"value": 100
+								},
+								{
+									"name": "7: 7498",
+									"value": 100
+								},
+								{
+									"name": "8: 8356",
+									"value": 100
+								},
+								{
+									"name": "9: 9265",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mega Zones",
+							"children": [
+								{
+									"name": "1: 1794",
+									"value": 100
+								},
+								{
+									"name": "2: 2777",
+									"value": 100
+								},
+								{
+									"name": "3: 3831",
+									"value": 100
+								},
+								{
+									"name": "4: 4710",
+									"value": 100
+								},
+								{
+									"name": "5: 5805",
+									"value": 100
+								},
+								{
+									"name": "6: 6729",
+									"value": 100
+								},
+								{
+									"name": "7: 7562",
+									"value": 100
+								},
+								{
+									"name": "8: 8837",
+									"value": 100
+								},
+								{
+									"name": "9: 9638",
+									"value": 100
+								},
+								{
+									"name": "10: 10732",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Order Up",
+							"children": [
+								{
+									"name": "1: 1674",
+									"value": 100
+								},
+								{
+									"name": "2: 2815",
+									"value": 100
+								},
+								{
+									"name": "3: 3592",
+									"value": 100
+								},
+								{
+									"name": "4: 4626",
+									"value": 100
+								},
+								{
+									"name": "5: 5660",
+									"value": 100
+								},
+								{
+									"name": "6: 6258",
+									"value": 100
+								},
+								{
+									"name": "7: 7230",
+									"value": 100
+								},
+								{
+									"name": "8: 8487",
+									"value": 100
+								},
+								{
+									"name": "9: 9215",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: 1915",
+									"value": 100
+								},
+								{
+									"name": "2: 2739",
+									"value": 100
+								},
+								{
+									"name": "3: 3916",
+									"value": 100
+								},
+								{
+									"name": "4: 4940",
+									"value": 100
+								},
+								{
+									"name": "5: 5475",
+									"value": 100
+								},
+								{
+									"name": "6: 6800",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Statues",
+							"children": [
+								{
+									"name": "1: 1961",
+									"value": 100
+								},
+								{
+									"name": "2: 2839",
+									"value": 100
+								},
+								{
+									"name": "3: 3832",
+									"value": 100
+								},
+								{
+									"name": "4: 4617",
+									"value": 100
+								},
+								{
+									"name": "5: 5574",
+									"value": 100
+								},
+								{
+									"name": "6: 6473",
+									"value": 100
+								},
+								{
+									"name": "7: 7450",
+									"value": 100
+								},
+								{
+									"name": "8: 8230",
+									"value": 100
+								},
+								{
+									"name": "9: 9272",
+									"value": 100
+								},
+								{
+									"name": "10: 10239",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "MEGA LASER",
+					"children": [
+						{
+							"name": "Defuse",
+							"children": [
+								{
+									"name": "1: 2061",
+									"value": 100
+								},
+								{
+									"name": "2: 3007",
+									"value": 100
+								},
+								{
+									"name": "3: 4029",
+									"value": 100
+								},
+								{
+									"name": "4: 4832",
+									"value": 100
+								},
+								{
+									"name": "5: 5907",
+									"value": 100
+								},
+								{
+									"name": "6: 6578",
+									"value": 100
+								},
+								{
+									"name": "7: 7637",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Gauntlet",
+							"children": [
+								{
+									"name": "1: 1604",
+									"value": 100
+								},
+								{
+									"name": "2: 2588",
+									"value": 100
+								},
+								{
+									"name": "3: 3573",
+									"value": 100
+								},
+								{
+									"name": "4: 4545",
+									"value": 100
+								},
+								{
+									"name": "5: 5555",
+									"value": 100
+								},
+								{
+									"name": "6: 6501",
+									"value": 100
+								},
+								{
+									"name": "7: 7511",
+									"value": 100
+								},
+								{
+									"name": "8: 8438",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Laser Relay",
+							"children": [
+								{
+									"name": "1: 1703",
+									"value": 100
+								},
+								{
+									"name": "2: 2630",
+									"value": 100
+								},
+								{
+									"name": "3: 3537",
+									"value": 100
+								},
+								{
+									"name": "4: 4353",
+									"value": 100
+								},
+								{
+									"name": "5: 5418",
+									"value": 100
+								},
+								{
+									"name": "6: 6328",
+									"value": 100
+								},
+								{
+									"name": "7: 7522",
+									"value": 100
+								},
+								{
+									"name": "8: 8369",
+									"value": 100
+								},
+								{
+									"name": "9: 9530",
+									"value": 100
+								},
+								{
+									"name": "10: 10410",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Maze",
+							"children": [
+								{
+									"name": "1: 1957",
+									"value": 100
+								},
+								{
+									"name": "2: 2836",
+									"value": 100
+								},
+								{
+									"name": "3: 3781",
+									"value": 100
+								},
+								{
+									"name": "4: 4683",
+									"value": 100
+								},
+								{
+									"name": "5: 5697",
+									"value": 100
+								},
+								{
+									"name": "6: 6471",
+									"value": 100
+								},
+								{
+									"name": "7: 7619",
+									"value": 100
+								},
+								{
+									"name": "8: 8496",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Zap",
+							"children": [
+								{
+									"name": "1: 1969",
+									"value": 100
+								},
+								{
+									"name": "2: 3009",
+									"value": 100
+								},
+								{
+									"name": "3: 3899",
+									"value": 100
+								},
+								{
+									"name": "4: 4901",
+									"value": 100
+								},
+								{
+									"name": "5: 5834",
+									"value": 100
+								},
+								{
+									"name": "6: 6737",
+									"value": 100
+								},
+								{
+									"name": "7: 7449",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PORTALS",
+					"children": [
+						{
+							"name": "Jumble",
+							"children": [
+								{
+									"name": "1: 1913",
+									"value": 100
+								},
+								{
+									"name": "2: 2588",
+									"value": 100
+								},
+								{
+									"name": "3: 3397",
+									"value": 100
+								},
+								{
+									"name": "4: 4555",
+									"value": 100
+								},
+								{
+									"name": "5: 5553",
+									"value": 100
+								},
+								{
+									"name": "6: 6452",
+									"value": 100
+								},
+								{
+									"name": "7: 7309",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Oddball",
+							"children": [
+								{
+									"name": "1: 1897",
+									"value": 100
+								},
+								{
+									"name": "2: 2899",
+									"value": 100
+								},
+								{
+									"name": "3: 3849",
+									"value": 100
+								},
+								{
+									"name": "4: 4661",
+									"value": 100
+								},
+								{
+									"name": "5: 5746",
+									"value": 100
+								},
+								{
+									"name": "6: 6371",
+									"value": 100
+								},
+								{
+									"name": "7: 7556",
+									"value": 100
+								},
+								{
+									"name": "8: 8546",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Stopwatch",
+							"children": [
+								{
+									"name": "1: 1752",
+									"value": 100
+								},
+								{
+									"name": "2: 2611",
+									"value": 100
+								},
+								{
+									"name": "3: 3646",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Wormholes",
+							"children": [
+								{
+									"name": "1: 1836",
+									"value": 100
+								},
+								{
+									"name": "2: 2649",
+									"value": 100
+								},
+								{
+									"name": "3: 3570",
+									"value": 100
+								},
+								{
+									"name": "4: 4381",
+									"value": 100
+								},
+								{
+									"name": "5: 5193",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PRESS",
+					"children": [
+						{
+							"name": "Bullet Train",
+							"children": [
+								{
+									"name": "1: 1880",
+									"value": 100
+								},
+								{
+									"name": "2: 2946",
+									"value": 100
+								},
+								{
+									"name": "3: 3741",
+									"value": 100
+								},
+								{
+									"name": "4: 4682",
+									"value": 100
+								},
+								{
+									"name": "5: 5544",
+									"value": 100
+								},
+								{
+									"name": "6: 6362",
+									"value": 100
+								},
+								{
+									"name": "7: 7215",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Gems",
+							"children": [
+								{
+									"name": "1: 2029",
+									"value": 100
+								},
+								{
+									"name": "2: 2956",
+									"value": 100
+								},
+								{
+									"name": "3: 3398",
+									"value": 100
+								},
+								{
+									"name": "4: 4646",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Link",
+							"children": [
+								{
+									"name": "1: 1960",
+									"value": 100
+								},
+								{
+									"name": "2: 2770",
+									"value": 100
+								},
+								{
+									"name": "3: 3820",
+									"value": 100
+								},
+								{
+									"name": "4: 4314",
+									"value": 100
+								},
+								{
+									"name": "5: 5481",
+									"value": 100
+								},
+								{
+									"name": "6: 6187",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Mines",
+							"children": [
+								{
+									"name": "1: 2103",
+									"value": 100
+								},
+								{
+									"name": "2: 3032",
+									"value": 100
+								},
+								{
+									"name": "3: 3876",
+									"value": 100
+								},
+								{
+									"name": "4: 4847",
+									"value": 100
+								},
+								{
+									"name": "5: 5971",
+									"value": 100
+								},
+								{
+									"name": "6: 6636",
+									"value": 100
+								},
+								{
+									"name": "7: 7602",
+									"value": 100
+								},
+								{
+									"name": "8: 8254",
+									"value": 100
+								},
+								{
+									"name": "9: 9498",
+									"value": 100
+								},
+								{
+									"name": "10: 10369",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Undercover",
+							"children": [
+								{
+									"name": "1: 1989",
+									"value": 100
+								},
+								{
+									"name": "2: 2554",
+									"value": 100
+								},
+								{
+									"name": "3: 3755",
+									"value": 100
+								},
+								{
+									"name": "4: 4578",
+									"value": 100
+								},
+								{
+									"name": "5: 5447",
+									"value": 100
+								},
+								{
+									"name": "6: 6643",
+									"value": 100
+								},
+								{
+									"name": "7: 7521",
+									"value": 100
+								},
+								{
+									"name": "8: 8632",
+									"value": 100
+								},
+								{
+									"name": "9: 9274",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "STRIKE",
+					"children": [
+						{
+							"name": "Asteroids",
+							"children": [
+								{
+									"name": "1: 2004",
+									"value": 100
+								},
+								{
+									"name": "2: 2915",
+									"value": 100
+								},
+								{
+									"name": "3: 3594",
+									"value": 100
+								},
+								{
+									"name": "4: 4377",
+									"value": 100
+								},
+								{
+									"name": "5: 5350",
+									"value": 100
+								},
+								{
+									"name": "6: 6402",
+									"value": 100
+								},
+								{
+									"name": "7: 7252",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Dartmouth",
+							"children": [
+								{
+									"name": "1: 2123",
+									"value": 100
+								},
+								{
+									"name": "2: 3005",
+									"value": 100
+								},
+								{
+									"name": "3: 3956",
+									"value": 100
+								},
+								{
+									"name": "4: 4894",
+									"value": 100
+								},
+								{
+									"name": "5: 6003",
+									"value": 100
+								},
+								{
+									"name": "6: 6916",
+									"value": 100
+								},
+								{
+									"name": "7: 7876",
+									"value": 100
+								},
+								{
+									"name": "8: 8803",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Flip",
+							"children": [
+								{
+									"name": "1: 1712",
+									"value": 100
+								},
+								{
+									"name": "2: 2818",
+									"value": 100
+								},
+								{
+									"name": "3: 3555",
+									"value": 100
+								},
+								{
+									"name": "4: 4548",
+									"value": 100
+								},
+								{
+									"name": "5: 5254",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Seeker",
+							"children": [
+								{
+									"name": "1: 2014",
+									"value": 100
+								},
+								{
+									"name": "2: 2791",
+									"value": 100
+								},
+								{
+									"name": "3: 3660",
+									"value": 100
+								},
+								{
+									"name": "4: 4803",
+									"value": 100
+								},
+								{
+									"name": "5: 5584",
+									"value": 100
+								},
+								{
+									"name": "6: 6448",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Terminal",
+							"children": [
+								{
+									"name": "1: 2048",
+									"value": 100
+								},
+								{
+									"name": "2: 2895",
+									"value": 100
+								},
+								{
+									"name": "3: 3759",
+									"value": 100
+								},
+								{
+									"name": "4: 4617",
+									"value": 100
+								},
+								{
+									"name": "5: 5586",
+									"value": 100
+								},
+								{
+									"name": "6: 6382",
+									"value": 100
+								},
+								{
+									"name": "7: 7257",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								},
+								{
+									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "BoringRori",
 			"children": [
 				{
@@ -56,7 +1947,7 @@ const data = {
 							"name": "Labyrinth",
 							"children": [
 								{
-									"name": "1: 1813",
+									"name": "1: 1858",
 									"value": 100
 								},
 								{
@@ -163,7 +2054,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "4: No Score",
+									"name": "4: 4385",
 									"value": 100
 								},
 								{
@@ -265,7 +2156,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7785",
+									"name": "7: 7847",
 									"value": 100
 								},
 								{
@@ -295,7 +2186,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "2: 2875",
+									"name": "2: 3052",
 									"value": 100
 								},
 								{
@@ -360,7 +2251,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7361",
+									"name": "7: 7522",
 									"value": 100
 								},
 								{
@@ -381,43 +2272,43 @@ const data = {
 							"name": "Sequence",
 							"children": [
 								{
-									"name": "1: No Score",
+									"name": "1: 2082",
 									"value": 100
 								},
 								{
-									"name": "2: No Score",
+									"name": "2: 3061",
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3991",
 									"value": 100
 								},
 								{
-									"name": "4: No Score",
+									"name": "4: 4845",
 									"value": 100
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5560",
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6634",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7800",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8507",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9474",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10472",
 									"value": 100
 								}
 							]
@@ -426,31 +2317,31 @@ const data = {
 							"name": "Spellinator",
 							"children": [
 								{
-									"name": "1: No Score",
+									"name": "1: 2161",
 									"value": 100
 								},
 								{
-									"name": "2: No Score",
+									"name": "2: 3010",
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 4008",
 									"value": 100
 								},
 								{
-									"name": "4: 4907",
+									"name": "4: 4947",
 									"value": 100
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5899",
 									"value": 100
 								},
 								{
-									"name": "6: 6443",
+									"name": "6: 6644",
 									"value": 100
 								},
 								{
-									"name": "7: 7242",
+									"name": "7: 7704",
 									"value": 100
 								},
 								{
@@ -458,7 +2349,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "9: 9621",
+									"name": "9: 9698",
 									"value": 100
 								},
 								{
@@ -495,7 +2386,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7162",
+									"name": "7: 7736",
 									"value": 100
 								},
 								{
@@ -537,19 +2428,19 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5705",
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6626",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7591",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8514",
 									"value": 100
 								},
 								{
@@ -566,7 +2457,7 @@ const data = {
 							"name": "Barrage",
 							"children": [
 								{
-									"name": "1: 1760",
+									"name": "1: 1899",
 									"value": 100
 								},
 								{
@@ -574,7 +2465,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3275",
 									"value": 100
 								},
 								{
@@ -635,7 +2526,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7483",
 									"value": 100
 								},
 								{
@@ -668,11 +2559,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "4: 4554",
+									"name": "4: 4583",
 									"value": 100
 								},
 								{
-									"name": "5: 5522",
+									"name": "5: 5593",
 									"value": 100
 								},
 								{
@@ -680,11 +2571,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7540",
+									"name": "7: 7583",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8872",
 									"value": 100
 								},
 								{
@@ -714,11 +2605,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3515",
 									"value": 100
 								},
 								{
-									"name": "4: 4523",
+									"name": "4: 4631",
 									"value": 100
 								},
 								{
@@ -812,7 +2703,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5469",
 									"value": 100
 								},
 								{
@@ -865,15 +2756,15 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7604",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8344",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9258",
 									"value": 100
 								},
 								{
@@ -910,7 +2801,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7171",
 									"value": 100
 								},
 								{
@@ -923,6 +2814,47 @@ const data = {
 								},
 								{
 									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: 2070",
+									"value": 100
+								},
+								{
+									"name": "2: 2949",
+									"value": 100
+								},
+								{
+									"name": "3: 3990",
+									"value": 100
+								},
+								{
+									"name": "4: 5012",
+									"value": 100
+								},
+								{
+									"name": "5: 5703",
+									"value": 100
+								},
+								{
+									"name": "6: 6722",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
 									"value": 100
 								}
 							]
@@ -951,15 +2883,15 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6268",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7466",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8225",
 									"value": 100
 								},
 								{
@@ -981,19 +2913,19 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: No Score",
+									"name": "1: 2072",
 									"value": 100
 								},
 								{
-									"name": "2: No Score",
+									"name": "2: 2956",
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3904",
 									"value": 100
 								},
 								{
-									"name": "4: No Score",
+									"name": "4: 4713",
 									"value": 100
 								},
 								{
@@ -1124,7 +3056,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3400",
 									"value": 100
 								},
 								{
@@ -1161,7 +3093,7 @@ const data = {
 							"name": "Zap",
 							"children": [
 								{
-									"name": "1: 1860",
+									"name": "1: 2016",
 									"value": 100
 								},
 								{
@@ -1211,7 +3143,7 @@ const data = {
 							"name": "Jumble",
 							"children": [
 								{
-									"name": "1: 1810",
+									"name": "1: 1932",
 									"value": 100
 								},
 								{
@@ -1276,7 +3208,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6144",
 									"value": 100
 								},
 								{
@@ -1584,7 +3516,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3811",
+									"name": "3: 3837",
 									"value": 100
 								},
 								{
@@ -1596,15 +3528,15 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: 6529",
+									"name": "6: 6697",
 									"value": 100
 								},
 								{
-									"name": "7: 7573",
+									"name": "7: 7859",
 									"value": 100
 								},
 								{
-									"name": "8: 8642",
+									"name": "8: 8648",
 									"value": 100
 								},
 								{
@@ -1806,7 +3738,7 @@ const data = {
 							"name": "Terminal",
 							"children": [
 								{
-									"name": "1: 1919",
+									"name": "1: 2006",
 									"value": 100
 								},
 								{
@@ -1826,7 +3758,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6499",
 									"value": 100
 								},
 								{
@@ -2773,6 +4705,47 @@ const data = {
 								},
 								{
 									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
 									"value": 100
 								}
 							]
@@ -4101,23 +6074,23 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6634",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7800",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8184",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9474",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10472",
 									"value": 100
 								}
 							]
@@ -4237,19 +6210,19 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5491",
+									"name": "5: 5705",
 									"value": 100
 								},
 								{
-									"name": "6: 6569",
+									"name": "6: 6626",
 									"value": 100
 								},
 								{
-									"name": "7: 7358",
+									"name": "7: 7591",
 									"value": 100
 								},
 								{
-									"name": "8: 8245",
+									"name": "8: 8514",
 									"value": 100
 								},
 								{
@@ -4628,6 +6601,47 @@ const data = {
 							]
 						},
 						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: 2070",
+									"value": 100
+								},
+								{
+									"name": "2: 2949",
+									"value": 100
+								},
+								{
+									"name": "3: 3990",
+									"value": 100
+								},
+								{
+									"name": "4: 5012",
+									"value": 100
+								},
+								{
+									"name": "5: 5703",
+									"value": 100
+								},
+								{
+									"name": "6: 6722",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
 							"name": "Statues",
 							"children": [
 								{
@@ -4681,7 +6695,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2015",
+									"name": "1: 2072",
 									"value": 100
 								},
 								{
@@ -4689,7 +6703,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3803",
+									"name": "3: 3904",
 									"value": 100
 								},
 								{
@@ -5585,7 +7599,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7475",
+									"name": "7: 7622",
 									"value": 100
 								},
 								{
@@ -5606,7 +7620,7 @@ const data = {
 							"name": "Labyrinth",
 							"children": [
 								{
-									"name": "1: 1736",
+									"name": "1: 1858",
 									"value": 100
 								},
 								{
@@ -5845,7 +7859,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "2: 2875",
+									"name": "2: 3052",
 									"value": 100
 								},
 								{
@@ -5931,19 +7945,19 @@ const data = {
 							"name": "Sequence",
 							"children": [
 								{
-									"name": "1: 1858",
+									"name": "1: 2082",
 									"value": 100
 								},
 								{
-									"name": "2: 3009",
+									"name": "2: 3061",
 									"value": 100
 								},
 								{
-									"name": "3: 3744",
+									"name": "3: 3991",
 									"value": 100
 								},
 								{
-									"name": "4: 4485",
+									"name": "4: 4845",
 									"value": 100
 								},
 								{
@@ -5951,23 +7965,23 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6634",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7800",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8507",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9474",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10472",
 									"value": 100
 								}
 							]
@@ -5976,7 +7990,7 @@ const data = {
 							"name": "Spellinator",
 							"children": [
 								{
-									"name": "1: 2055",
+									"name": "1: 2161",
 									"value": 100
 								},
 								{
@@ -5984,31 +7998,31 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3782",
+									"name": "3: 4008",
 									"value": 100
 								},
 								{
-									"name": "4: 4740",
+									"name": "4: 4876",
 									"value": 100
 								},
 								{
-									"name": "5: 5428",
+									"name": "5: 5899",
 									"value": 100
 								},
 								{
-									"name": "6: 6345",
+									"name": "6: 6644",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7704",
 									"value": 100
 								},
 								{
-									"name": "8: 8281",
+									"name": "8: 8477",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9698",
 									"value": 100
 								},
 								{
@@ -6045,7 +8059,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7293",
+									"name": "7: 7736",
 									"value": 100
 								},
 								{
@@ -6087,19 +8101,19 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5368",
+									"name": "5: 5705",
 									"value": 100
 								},
 								{
-									"name": "6: 6569",
+									"name": "6: 6626",
 									"value": 100
 								},
 								{
-									"name": "7: 7358",
+									"name": "7: 7591",
 									"value": 100
 								},
 								{
-									"name": "8: 8245",
+									"name": "8: 8514",
 									"value": 100
 								},
 								{
@@ -6185,7 +8199,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7483",
 									"value": 100
 								},
 								{
@@ -6234,7 +8248,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "8: 8733",
+									"name": "8: 8872",
 									"value": 100
 								},
 								{
@@ -6478,6 +8492,47 @@ const data = {
 							]
 						},
 						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: 2070",
+									"value": 100
+								},
+								{
+									"name": "2: 2958",
+									"value": 100
+								},
+								{
+									"name": "3: 3990",
+									"value": 100
+								},
+								{
+									"name": "4: 5012",
+									"value": 100
+								},
+								{
+									"name": "5: 5703",
+									"value": 100
+								},
+								{
+									"name": "6: 6722",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
 							"name": "Statues",
 							"children": [
 								{
@@ -6505,11 +8560,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7327",
+									"name": "7: 7466",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8225",
 									"value": 100
 								},
 								{
@@ -6531,7 +8586,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2062",
+									"name": "1: 2072",
 									"value": 100
 								},
 								{
@@ -6539,7 +8594,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3803",
+									"name": "3: 3904",
 									"value": 100
 								},
 								{
@@ -6576,7 +8631,7 @@ const data = {
 							"name": "Gauntlet",
 							"children": [
 								{
-									"name": "1: No Score",
+									"name": "1: 1285",
 									"value": 100
 								},
 								{
@@ -6711,7 +8766,7 @@ const data = {
 							"name": "Zap",
 							"children": [
 								{
-									"name": "1: 1874",
+									"name": "1: 2016",
 									"value": 100
 								},
 								{
@@ -7134,7 +9189,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3811",
+									"name": "3: 3821",
 									"value": 100
 								},
 								{
@@ -7146,11 +9201,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: 6615",
+									"name": "6: 6742",
 									"value": 100
 								},
 								{
-									"name": "7: 7756",
+									"name": "7: 7859",
 									"value": 100
 								},
 								{
@@ -7356,7 +9411,7 @@ const data = {
 							"name": "Terminal",
 							"children": [
 								{
-									"name": "1: 1924",
+									"name": "1: 2006",
 									"value": 100
 								},
 								{
@@ -7372,11 +9427,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5471",
+									"name": "5: 5483",
 									"value": 100
 								},
 								{
-									"name": "6: 6277",
+									"name": "6: 6499",
 									"value": 100
 								},
 								{
@@ -7695,7 +9750,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "2: 2875",
+									"name": "2: 3052",
 									"value": 100
 								},
 								{
@@ -7760,7 +9815,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7318",
+									"name": "7: 7522",
 									"value": 100
 								},
 								{
@@ -7781,19 +9836,19 @@ const data = {
 							"name": "Sequence",
 							"children": [
 								{
-									"name": "1: 1858",
+									"name": "1: 2082",
 									"value": 100
 								},
 								{
-									"name": "2: 3009",
+									"name": "2: 3061",
 									"value": 100
 								},
 								{
-									"name": "3: 3955",
+									"name": "3: 3991",
 									"value": 100
 								},
 								{
-									"name": "4: 4735",
+									"name": "4: 4845",
 									"value": 100
 								},
 								{
@@ -7801,23 +9856,23 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6634",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7800",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8507",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9474",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10472",
 									"value": 100
 								}
 							]
@@ -7826,7 +9881,7 @@ const data = {
 							"name": "Spellinator",
 							"children": [
 								{
-									"name": "1: 2055",
+									"name": "1: 2161",
 									"value": 100
 								},
 								{
@@ -7834,23 +9889,23 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3908",
+									"name": "3: 4008",
 									"value": 100
 								},
 								{
-									"name": "4: 4907",
+									"name": "4: 4947",
 									"value": 100
 								},
 								{
-									"name": "5: 5428",
+									"name": "5: 5899",
 									"value": 100
 								},
 								{
-									"name": "6: 6637",
+									"name": "6: 6644",
 									"value": 100
 								},
 								{
-									"name": "7: 7443",
+									"name": "7: 7704",
 									"value": 100
 								},
 								{
@@ -7858,7 +9913,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "9: 9692",
+									"name": "9: 9698",
 									"value": 100
 								},
 								{
@@ -7895,7 +9950,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7293",
+									"name": "7: 7736",
 									"value": 100
 								},
 								{
@@ -7937,19 +9992,19 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5491",
+									"name": "5: 5705",
 									"value": 100
 								},
 								{
-									"name": "6: 6569",
+									"name": "6: 6626",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7591",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8514",
 									"value": 100
 								},
 								{
@@ -8035,7 +10090,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7436",
+									"name": "7: 7483",
 									"value": 100
 								},
 								{
@@ -8080,11 +10135,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7528",
+									"name": "7: 7583",
 									"value": 100
 								},
 								{
-									"name": "8: 8544",
+									"name": "8: 8872",
 									"value": 100
 								},
 								{
@@ -8265,7 +10320,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7543",
+									"name": "7: 7598",
 									"value": 100
 								},
 								{
@@ -8310,7 +10365,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7171",
 									"value": 100
 								},
 								{
@@ -8323,6 +10378,47 @@ const data = {
 								},
 								{
 									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: 2070",
+									"value": 100
+								},
+								{
+									"name": "2: 2958",
+									"value": 100
+								},
+								{
+									"name": "3: 3990",
+									"value": 100
+								},
+								{
+									"name": "4: 5012",
+									"value": 100
+								},
+								{
+									"name": "5: 5703",
+									"value": 100
+								},
+								{
+									"name": "6: 6722",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
 									"value": 100
 								}
 							]
@@ -8355,11 +10451,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7327",
+									"name": "7: 7466",
 									"value": 100
 								},
 								{
-									"name": "8: 8155",
+									"name": "8: 8225",
 									"value": 100
 								},
 								{
@@ -8381,7 +10477,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2062",
+									"name": "1: 2072",
 									"value": 100
 								},
 								{
@@ -8389,7 +10485,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3864",
+									"name": "3: 3904",
 									"value": 100
 								},
 								{
@@ -8561,7 +10657,7 @@ const data = {
 							"name": "Zap",
 							"children": [
 								{
-									"name": "1: 1884",
+									"name": "1: 2016",
 									"value": 100
 								},
 								{
@@ -8984,7 +11080,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3811",
+									"name": "3: 3837",
 									"value": 100
 								},
 								{
@@ -8996,15 +11092,15 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: 6529",
+									"name": "6: 6742",
 									"value": 100
 								},
 								{
-									"name": "7: 7591",
+									"name": "7: 7859",
 									"value": 100
 								},
 								{
-									"name": "8: 8642",
+									"name": "8: 8648",
 									"value": 100
 								},
 								{
@@ -9222,11 +11318,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5471",
+									"name": "5: 5483",
 									"value": 100
 								},
 								{
-									"name": "6: 6277",
+									"name": "6: 6499",
 									"value": 100
 								},
 								{
@@ -10173,6 +12269,47 @@ const data = {
 								},
 								{
 									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
 									"value": 100
 								}
 							]
@@ -11395,7 +13532,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "2: 2969",
+									"name": "2: 3052",
 									"value": 100
 								},
 								{
@@ -11452,7 +13589,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5590",
+									"name": "5: 5643",
 									"value": 100
 								},
 								{
@@ -11481,43 +13618,43 @@ const data = {
 							"name": "Sequence",
 							"children": [
 								{
-									"name": "1: 2065",
+									"name": "1: 2082",
 									"value": 100
 								},
 								{
-									"name": "2: 2970",
+									"name": "2: 3061",
 									"value": 100
 								},
 								{
-									"name": "3: 3955",
+									"name": "3: 3991",
 									"value": 100
 								},
 								{
-									"name": "4: 4735",
+									"name": "4: 4845",
 									"value": 100
 								},
 								{
-									"name": "5: 5558",
+									"name": "5: 5560",
 									"value": 100
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6634",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7800",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8507",
 									"value": 100
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9474",
 									"value": 100
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10472",
 									"value": 100
 								}
 							]
@@ -11526,7 +13663,7 @@ const data = {
 							"name": "Spellinator",
 							"children": [
 								{
-									"name": "1: 2055",
+									"name": "1: 2161",
 									"value": 100
 								},
 								{
@@ -11534,15 +13671,15 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3908",
+									"name": "3: 4008",
 									"value": 100
 								},
 								{
-									"name": "4: 4872",
+									"name": "4: 4876",
 									"value": 100
 								},
 								{
-									"name": "5: 5805",
+									"name": "5: 5899",
 									"value": 100
 								},
 								{
@@ -11550,15 +13687,15 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7443",
+									"name": "7: 7704",
 									"value": 100
 								},
 								{
-									"name": "8: 8281",
+									"name": "8: 8477",
 									"value": 100
 								},
 								{
-									"name": "9: 9692",
+									"name": "9: 9698",
 									"value": 100
 								},
 								{
@@ -11595,7 +13732,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7293",
+									"name": "7: 7736",
 									"value": 100
 								},
 								{
@@ -11637,19 +13774,19 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5491",
+									"name": "5: 5705",
 									"value": 100
 								},
 								{
-									"name": "6: 6439",
+									"name": "6: 6626",
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7591",
 									"value": 100
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8514",
 									"value": 100
 								},
 								{
@@ -11784,7 +13921,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "8: 8733",
+									"name": "8: 8872",
 									"value": 100
 								},
 								{
@@ -12028,6 +14165,47 @@ const data = {
 							]
 						},
 						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: 2070",
+									"value": 100
+								},
+								{
+									"name": "2: 2958",
+									"value": 100
+								},
+								{
+									"name": "3: 3990",
+									"value": 100
+								},
+								{
+									"name": "4: 5012",
+									"value": 100
+								},
+								{
+									"name": "5: 5703",
+									"value": 100
+								},
+								{
+									"name": "6: 6722",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
 							"name": "Statues",
 							"children": [
 								{
@@ -12055,11 +14233,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7225",
+									"name": "7: 7466",
 									"value": 100
 								},
 								{
-									"name": "8: 8155",
+									"name": "8: 8225",
 									"value": 100
 								},
 								{
@@ -12081,7 +14259,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2062",
+									"name": "1: 2072",
 									"value": 100
 								},
 								{
@@ -12089,7 +14267,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3803",
+									"name": "3: 3904",
 									"value": 100
 								},
 								{
@@ -12261,7 +14439,7 @@ const data = {
 							"name": "Zap",
 							"children": [
 								{
-									"name": "1: 1942",
+									"name": "1: 2016",
 									"value": 100
 								},
 								{
@@ -12684,7 +14862,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "3: 3768",
+									"name": "3: 3821",
 									"value": 100
 								},
 								{
@@ -12696,11 +14874,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "6: 6615",
+									"name": "6: 6742",
 									"value": 100
 								},
 								{
-									"name": "7: 7756",
+									"name": "7: 7859",
 									"value": 100
 								},
 								{
@@ -12922,11 +15100,11 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "5: 5288",
+									"name": "5: 5483",
 									"value": 100
 								},
 								{
-									"name": "6: 6269",
+									"name": "6: 6499",
 									"value": 100
 								},
 								{
@@ -13245,7 +15423,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "2: 2969",
+									"name": "2: 3052",
 									"value": 100
 								},
 								{
@@ -13585,7 +15763,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7483",
 									"value": 100
 								},
 								{
@@ -13873,6 +16051,47 @@ const data = {
 								},
 								{
 									"name": "10: No Score",
+									"value": 100
+								}
+							]
+						},
+						{
+							"name": "Sharpshooter",
+							"children": [
+								{
+									"name": "1: No Score",
+									"value": 100
+								},
+								{
+									"name": "2: No Score",
+									"value": 100
+								},
+								{
+									"name": "3: No Score",
+									"value": 100
+								},
+								{
+									"name": "4: No Score",
+									"value": 100
+								},
+								{
+									"name": "5: No Score",
+									"value": 100
+								},
+								{
+									"name": "6: No Score",
+									"value": 100
+								},
+								{
+									"name": "7: No Score",
+									"value": 100
+								},
+								{
+									"name": "8: No Score",
+									"value": 100
+								},
+								{
+									"name": "9: No Score",
 									"value": 100
 								}
 							]
@@ -14550,7 +16769,7 @@ const data = {
 									"value": 100
 								},
 								{
-									"name": "7: 7591",
+									"name": "7: 7786",
 									"value": 100
 								},
 								{
