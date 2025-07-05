@@ -71,16 +71,25 @@ function drawGraph(input, filterMode = FilterMode.DEFAULT) {
       .attr("fill", d => { 
         if (d.data.name.includes("No Score")) {
           return d3.color("black");
+        } else if (d.data.highscore) {
+          return d3.color("green");
         } else { 
           if (d.depth === 3){
             let found_score = false;
+            let found_non_high_score = false;
             for (let score of d.children){
               if (!score.data.name.includes("No Score")) {
                 found_score = true;
               }
+              if (!score.data.highscore) {
+                found_non_high_score = true;
+              }
             }
             if (!found_score) {
               return d3.color("black");
+            }
+            if (!found_non_high_score) {
+              return d3.color("green");
             }
           }
           while (d.depth > 1) d = d.parent; 
@@ -253,7 +262,7 @@ function filterData(filterMode = FilterMode.DEFAULT) {
 
 const playerMap = new Map()
 const checkboxes = document.getElementById('checkboxes');
-let unchecked = ['B-Bunny', 'CalvinsBiscuits', 'Skula']
+let unchecked = ['B-Bunny', 'CalvinsBiscuits', 'HIGHSCORE', 'Mr Worldwide 2', 'Skula'];
 for (const player of data['children']){
   const playerName = player['name']
   if (unchecked.includes(playerName)) {
