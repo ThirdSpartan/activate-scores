@@ -1,5 +1,4 @@
 import { PlaywrightCrawler, Dataset } from 'crawlee';
-import { readFile } from 'fs/promises';
 
 async function getAndSaveScores() {
     const room_crawler = new PlaywrightCrawler({
@@ -31,21 +30,29 @@ async function getAndSaveScores() {
             const page_url = page.url()
             let total_scores = {};
             const room_name = game_urls_obj[page_url];
+            const is_highscore = page_url.toLowerCase().includes('highscore');
 
             for (const game of games) {
                 const selectHandle = await page.evaluateHandle(() => document.getElementsByName('game')[0]);
                 const gameString = game.toString();
                 await selectHandle.selectOption(gameString);
-                const game_scores =  await page.evaluate(() =>  {
+                const game_scores =  await page.evaluate((is_highscore) =>  {
                     const table = document.getElementsByTagName('table')[0];
                     var scores = {};
                     for (var r = 2, n = table.rows.length; r < n; r++) {
                         let level_num = table.rows[r].cells[0].innerHTML;
-                        let level_score = table.rows[r].cells[1].innerHTML.trim();
+                        let level_score = 0;
+                        if (is_highscore) {
+                            level_score = table.rows[r].cells[2].innerHTML.trim();
+                            level_score = level_score === '-'? 'No Score': level_score;
+                        } else {
+                            level_score = table.rows[r].cells[1].innerHTML.trim();
+                        }
+
                         scores[level_num] = level_score;
                     }
                     return scores;
-                });
+                }, is_highscore);
                 total_scores[gameString] = game_scores;
             } 
             player_scores[current_player][room_name] = total_scores
@@ -59,16 +66,19 @@ async function getAndSaveScores() {
     for (const player of player_list) {
         current_player = player;
         player_scores[player] = {};
-        const score_url = [`https://playactivate.com/scores/${player}/23/Cincinnati/scores`];
+        const score_url = [`https://playactivate.com/scores/${player}/23/Cincinnati%20%28Oakley%29/scores`];
         await room_crawler.run(score_url);
         let game_urls = Object.keys(game_urls_obj);
         await game_crawler.run(game_urls);
     }
-    await Dataset.pushData(player_scores);
+    const playerScoreDataSet = await Dataset.open('player-scores');
+    await playerScoreDataSet.pushData(player_scores);
 }
 
 async function convertScores() {
-    let data = JSON.parse(await readFile("activate_scores.json", "utf8"));
+    const playerScoreDataSet = await Dataset.open('player-scores');
+    const playerScoreDataSetContent = await playerScoreDataSet.getData();
+    let data = playerScoreDataSetContent.items[0];
     let new_data = {
         name: "Scores",
         children: []
@@ -97,7 +107,8 @@ async function convertScores() {
                     let level_obj = {
                         name: `${level}: ${data[player][room][game][level]}`,
                         // value: data[player][room][game][level] != 'No Score' ? Number(data[player][room][game][level]) : 100
-                        value: 100
+                        value: 100,
+                        highscore:  data[player][room][game][level] === 'No Score' ? false : data['HIGHSCORE'][room][game][level] === data[player][room][game][level] ? true : false
                     }
                     game_obj.children.push(level_obj);
                 }
@@ -107,11 +118,12 @@ async function convertScores() {
         })
         new_data.children.push(player_obj);
     })
-    await Dataset.pushData(new_data);
+    const formattedScoreDataSet = await Dataset.open('formatted-scores');
+    await formattedScoreDataSet.pushData(new_data);
 }
 
 async function groupGetSpecificScores() {
-    let data = JSON.parse(await readFile("activate_scores.json", "utf8"));
+    // let data = JSON.parse(await readFile("activate_scores.json", "utf8"));
 
     const specific_games = {
         GRID: {Strategy: 2},
@@ -149,8 +161,3 @@ async function groupGetSpecificScores() {
     await Dataset.pushData(grouped_scores);
 }
 
-const player_list = ['TheThirdSpartan', 'WhiteFang-94', 'ReginaK', 'CrispyConductor', 'Hooooooooooosben', 'CalvinsBiscuits', 'Skula', 'BoringRori'];
-
-// getAndSaveScores();
-// convertScores();
-// groupGetSpecificScores();
