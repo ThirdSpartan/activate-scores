@@ -1,6 +1,6 @@
 var GHPATH = '/activate-scores';
 var APP_PREFIX = 'aspwa_';
-var VERSION = 'version_007';
+var VERSION = 'version_008';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
