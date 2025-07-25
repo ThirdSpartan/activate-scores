@@ -10,7 +10,7 @@ async function getAndSaveScores() {
                 const games_accordion = document.getElementById('games-accordion');
                 const game_links = games_accordion.getElementsByTagName('a');
                 const game_links_array = Array.from(game_links);
-                const game_links_obj = game_links_array.reduce((map, link) => (map[link.href] = link.innerText, map), {});
+                const game_links_obj = game_links_array.reduce((map, link) => (map[link.href.toLowerCase()] = link.innerText, map), {});
                 return game_links_obj;
             });
             game_urls_obj = game_links_obj;
