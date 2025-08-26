@@ -366,7 +366,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4853",
+									"name": "4: 4900",
 									"value": 100,
 									"highscore": false
 								},
@@ -541,7 +541,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6721",
+									"name": "6: 6905",
 									"value": 100,
 									"highscore": false
 								},
@@ -753,7 +753,7 @@ const data = {
 								{
 									"name": "3: 3938",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "4: 4795",
@@ -816,7 +816,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5791",
+									"name": "5: 5810",
 									"value": 100,
 									"highscore": false
 								},
@@ -863,7 +863,7 @@ const data = {
 								{
 									"name": "2: 2997",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3864",
@@ -1148,7 +1148,7 @@ const data = {
 								{
 									"name": "4: 4666",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "5: 5660",
@@ -1411,14 +1411,14 @@ const data = {
 							"name": "Laser Relay",
 							"children": [
 								{
-									"name": "1: 1703",
+									"name": "1: 1800",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "2: 2630",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3537",
@@ -1551,7 +1551,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7449",
+									"name": "7: 7675",
 									"value": 100,
 									"highscore": false
 								},
@@ -1986,7 +1986,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 5060",
+									"name": "4: 5087",
 									"value": 100,
 									"highscore": true
 								},
@@ -2031,7 +2031,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2554",
+									"name": "2: 2697",
 									"value": 100,
 									"highscore": false
 								},
@@ -2041,12 +2041,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4578",
+									"name": "4: 4776",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5447",
+									"name": "5: 5712",
 									"value": 100,
 									"highscore": false
 								},
@@ -2056,9 +2056,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7521",
+									"name": "7: 7864",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: 8632",
@@ -2276,7 +2276,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6448",
+									"name": "6: 6602",
 									"value": 100,
 									"highscore": false
 								},
@@ -2328,7 +2328,7 @@ const data = {
 								{
 									"name": "5: 5586",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "6: 6565",
@@ -2376,12 +2376,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2674",
+									"name": "2: 2745",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3763",
+									"name": "3: 3798",
 									"value": 100,
 									"highscore": false
 								},
@@ -2446,9 +2446,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5885",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: No Score",
@@ -2511,14 +2511,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6815",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7396",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -2686,7 +2686,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8399",
 									"value": 100,
 									"highscore": false
 								},
@@ -2721,7 +2721,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "3: 3687",
+									"name": "3: 3691",
 									"value": 100,
 									"highscore": false
 								},
@@ -2766,17 +2766,17 @@ const data = {
 							"name": "Relay",
 							"children": [
 								{
-									"name": "1: 1810",
+									"name": "1: 1916",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2790",
+									"name": "2: 2885",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3757",
+									"name": "3: 3834",
 									"value": 100,
 									"highscore": false
 								},
@@ -2828,7 +2828,7 @@ const data = {
 								{
 									"name": "2: 3061",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3991",
@@ -2841,9 +2841,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5766",
+									"name": "5: 6027",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: 6634",
@@ -2901,9 +2901,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6644",
+									"name": "6: 6994",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7704",
@@ -3006,9 +3006,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4621",
+									"name": "4: 5019",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "5: 5875",
@@ -3061,12 +3061,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: No Score",
+									"name": "4: 4475",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5347",
 									"value": 100,
 									"highscore": false
 								},
@@ -3196,7 +3196,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9722",
 									"value": 100,
 									"highscore": false
 								},
@@ -3271,12 +3271,12 @@ const data = {
 							"name": "Jigsaw",
 							"children": [
 								{
-									"name": "1: 1823",
+									"name": "1: 1901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2688",
+									"name": "2: 2862",
 									"value": 100,
 									"highscore": false
 								},
@@ -3326,17 +3326,17 @@ const data = {
 							"name": "Mega Grid",
 							"children": [
 								{
-									"name": "1: 1661",
+									"name": "1: 1819",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2804",
+									"name": "2: 2922",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3512",
+									"name": "3: 3684",
 									"value": 100,
 									"highscore": false
 								},
@@ -3491,9 +3491,9 @@ const data = {
 							"name": "Order Up",
 							"children": [
 								{
-									"name": "1: 1834",
+									"name": "1: 1970",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "2: 2823",
@@ -3501,12 +3501,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3415",
+									"name": "3: 3512",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4131",
+									"name": "4: 4187",
 									"value": 100,
 									"highscore": false
 								},
@@ -3776,7 +3776,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2375",
+									"name": "2: 2470",
 									"value": 100,
 									"highscore": false
 								},
@@ -3826,7 +3826,7 @@ const data = {
 							"name": "Maze",
 							"children": [
 								{
-									"name": "1: 1734",
+									"name": "1: 1887",
 									"value": 100,
 									"highscore": false
 								},
@@ -3901,17 +3901,17 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5509",
+									"name": "5: 5821",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "6: 6647",
+									"name": "6: 6791",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "7: 7176",
+									"name": "7: 7543",
 									"value": 100,
 									"highscore": false
 								},
@@ -3946,7 +3946,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2425",
+									"name": "2: 2544",
 									"value": 100,
 									"highscore": false
 								},
@@ -4166,17 +4166,17 @@ const data = {
 							"name": "Bullet Train",
 							"children": [
 								{
-									"name": "1: 1896",
+									"name": "1: 2032",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2898",
+									"name": "2: 2942",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3609",
+									"name": "3: 3882",
 									"value": 100,
 									"highscore": false
 								},
@@ -4231,7 +4231,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3250",
 									"value": 100,
 									"highscore": false
 								},
@@ -4281,12 +4281,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2562",
+									"name": "2: 2748",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3783",
 									"value": 100,
 									"highscore": false
 								},
@@ -4418,7 +4418,7 @@ const data = {
 								{
 									"name": "7: 7859",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "8: 8648",
@@ -4446,17 +4446,17 @@ const data = {
 							"name": "Asteroids",
 							"children": [
 								{
-									"name": "1: 1931",
+									"name": "1: 1933",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2671",
+									"name": "2: 2682",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3548",
+									"name": "3: 3575",
 									"value": 100,
 									"highscore": false
 								},
@@ -4611,17 +4611,17 @@ const data = {
 							"name": "Seeker",
 							"children": [
 								{
-									"name": "1: 2001",
+									"name": "1: 2076",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2830",
+									"name": "2: 2847",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3740",
+									"name": "3: 3816",
 									"value": 100,
 									"highscore": false
 								},
@@ -4686,9 +4686,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5471",
+									"name": "5: 5726",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: 6499",
@@ -4696,9 +4696,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7403",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -6133,7 +6133,7 @@ const data = {
 								{
 									"name": "1: 1779",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "2: 2524",
@@ -7166,14 +7166,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5696",
+									"name": "5: 5885",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6560",
+									"name": "6: 6690",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: No Score",
@@ -7231,14 +7231,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6546",
+									"name": "6: 6815",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7396",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -7281,14 +7281,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5544",
+									"name": "5: 5602",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6350",
+									"name": "6: 6630",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7384",
@@ -7476,7 +7476,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10133",
 									"value": 100,
 									"highscore": false
 								}
@@ -7561,7 +7561,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5898",
+									"name": "5: 6027",
 									"value": 100,
 									"highscore": true
 								},
@@ -7616,14 +7616,14 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5879",
+									"name": "5: 5982",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "6: 6779",
+									"name": "6: 6994",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7652",
@@ -7726,9 +7726,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4683",
+									"name": "4: 5019",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "5: 5861",
@@ -7796,7 +7796,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7319",
 									"value": 100,
 									"highscore": false
 								},
@@ -7891,7 +7891,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4740",
+									"name": "4: 4976",
 									"value": 100,
 									"highscore": false
 								},
@@ -7916,7 +7916,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: 9515",
+									"name": "9: 9722",
 									"value": 100,
 									"highscore": false
 								},
@@ -7963,7 +7963,7 @@ const data = {
 								{
 									"name": "6: 6433",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "7: No Score",
@@ -7991,12 +7991,12 @@ const data = {
 							"name": "Jigsaw",
 							"children": [
 								{
-									"name": "1: 1852",
+									"name": "1: 1901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2832",
+									"name": "2: 2862",
 									"value": 100,
 									"highscore": false
 								},
@@ -8191,7 +8191,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "8: 8701",
+									"name": "8: 8820",
 									"value": 100,
 									"highscore": false
 								},
@@ -8218,15 +8218,15 @@ const data = {
 								{
 									"name": "2: 2918",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
-									"name": "3: 3415",
+									"name": "3: 3479",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4131",
+									"name": "4: 4187",
 									"value": 100,
 									"highscore": false
 								},
@@ -8328,7 +8328,7 @@ const data = {
 								{
 									"name": "2: 2906",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3821",
@@ -8381,7 +8381,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2072",
+									"name": "1: 2077",
 									"value": 100,
 									"highscore": false
 								},
@@ -8391,7 +8391,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3904",
+									"name": "3: 3999",
 									"value": 100,
 									"highscore": false
 								},
@@ -8631,9 +8631,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7232",
+									"name": "7: 8249",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -8761,9 +8761,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10548",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								}
 							]
 						},
@@ -8891,29 +8891,29 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2927",
+									"name": "2: 3055",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3810",
+									"name": "3: 3901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4604",
+									"name": "4: 4822",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5556",
+									"name": "5: 5705",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6360",
+									"name": "6: 6738",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7483",
@@ -8926,9 +8926,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9379",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "10: No Score",
@@ -9001,12 +9001,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2481",
+									"name": "2: 2748",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3288",
+									"name": "3: 3783",
 									"value": 100,
 									"highscore": false
 								},
@@ -9406,9 +9406,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5471",
+									"name": "5: 5726",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: 6277",
@@ -9416,9 +9416,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7270",
+									"name": "7: 7403",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -9491,7 +9491,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "9: 9413",
+									"name": "9: 9518",
 									"value": 100,
 									"highscore": true
 								},
@@ -9516,7 +9516,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "3: 3865",
+									"name": "3: 3938",
 									"value": 100,
 									"highscore": true
 								},
@@ -9526,12 +9526,12 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5719",
+									"name": "5: 5885",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "6: 6596",
+									"name": "6: 6690",
 									"value": 100,
 									"highscore": true
 								},
@@ -9566,7 +9566,7 @@ const data = {
 							"name": "Flash Mines",
 							"children": [
 								{
-									"name": "1: 1867",
+									"name": "1: 1871",
 									"value": 100,
 									"highscore": true
 								},
@@ -9591,14 +9591,14 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6670",
+									"name": "6: 6815",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7396",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -9641,12 +9641,12 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5557",
+									"name": "5: 5602",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "6: 6454",
+									"name": "6: 6630",
 									"value": 100,
 									"highscore": true
 								},
@@ -9686,12 +9686,12 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "3: 3905",
+									"name": "3: 4121",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "4: 4871",
+									"name": "4: 4886",
 									"value": 100,
 									"highscore": true
 								},
@@ -9906,7 +9906,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 3061",
+									"name": "2: 3083",
 									"value": 100,
 									"highscore": true
 								},
@@ -9921,7 +9921,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5898",
+									"name": "5: 6027",
 									"value": 100,
 									"highscore": true
 								},
@@ -9981,7 +9981,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6958",
+									"name": "6: 6994",
 									"value": 100,
 									"highscore": true
 								},
@@ -10021,7 +10021,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "3: 3967",
+									"name": "3: 4019",
 									"value": 100,
 									"highscore": true
 								},
@@ -10086,7 +10086,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "4: 4907",
+									"name": "4: 5019",
 									"value": 100,
 									"highscore": true
 								},
@@ -10191,7 +10191,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "3: 3938",
+									"name": "3: 3961",
 									"value": 100,
 									"highscore": true
 								},
@@ -10266,7 +10266,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "7: 7904",
+									"name": "7: 7981",
 									"value": 100,
 									"highscore": true
 								},
@@ -10301,7 +10301,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 2997",
+									"name": "2: 3192",
 									"value": 100,
 									"highscore": true
 								},
@@ -10321,7 +10321,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6433",
+									"name": "6: 6761",
 									"value": 100,
 									"highscore": true
 								},
@@ -10411,7 +10411,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 2983",
+									"name": "2: 2984",
 									"value": 100,
 									"highscore": true
 								},
@@ -10461,7 +10461,7 @@ const data = {
 							"name": "Mega Relay",
 							"children": [
 								{
-									"name": "1: 1959",
+									"name": "1: 1962",
 									"value": 100,
 									"highscore": true
 								},
@@ -10571,22 +10571,22 @@ const data = {
 							"name": "Order Up",
 							"children": [
 								{
-									"name": "1: 1918",
+									"name": "1: 1970",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "2: 2918",
+									"name": "2: 2991",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "3: 3663",
+									"name": "3: 3916",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "4: 4666",
+									"name": "4: 4847",
 									"value": 100,
 									"highscore": true
 								},
@@ -10631,7 +10631,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 3047",
+									"name": "2: 3061",
 									"value": 100,
 									"highscore": true
 								},
@@ -10686,7 +10686,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 2906",
+									"name": "2: 2946",
 									"value": 100,
 									"highscore": true
 								},
@@ -10851,12 +10851,12 @@ const data = {
 							"name": "Laser Relay",
 							"children": [
 								{
-									"name": "1: 1779",
+									"name": "1: 1800",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "2: 2630",
+									"name": "2: 2697",
 									"value": 100,
 									"highscore": true
 								},
@@ -11086,7 +11086,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "3: 3975",
+									"name": "3: 4013",
 									"value": 100,
 									"highscore": true
 								},
@@ -11121,9 +11121,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10548",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								}
 							]
 						},
@@ -11186,7 +11186,7 @@ const data = {
 							"name": "Wormholes",
 							"children": [
 								{
-									"name": "1: 1897",
+									"name": "1: 1898",
 									"value": 100,
 									"highscore": true
 								},
@@ -11251,7 +11251,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 3071",
+									"name": "2: 3079",
 									"value": 100,
 									"highscore": true
 								},
@@ -11266,12 +11266,12 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5623",
+									"name": "5: 5705",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "6: 6488",
+									"name": "6: 6738",
 									"value": 100,
 									"highscore": true
 								},
@@ -11286,9 +11286,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9379",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "10: No Score",
@@ -11321,7 +11321,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5833",
+									"name": "5: 5910",
 									"value": 100,
 									"highscore": true
 								},
@@ -11426,7 +11426,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "4: 5060",
+									"name": "4: 5087",
 									"value": 100,
 									"highscore": true
 								},
@@ -11496,7 +11496,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "7: 7859",
+									"name": "7: 7864",
 									"value": 100,
 									"highscore": true
 								},
@@ -11586,7 +11586,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "2: 3030",
+									"name": "2: 3034",
 									"value": 100,
 									"highscore": true
 								},
@@ -11636,7 +11636,7 @@ const data = {
 							"name": "Flip",
 							"children": [
 								{
-									"name": "1: 2028",
+									"name": "1: 2029",
 									"value": 100,
 									"highscore": true
 								},
@@ -11711,7 +11711,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5658",
+									"name": "5: 5702",
 									"value": 100,
 									"highscore": true
 								},
@@ -11766,7 +11766,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5586",
+									"name": "5: 5726",
 									"value": 100,
 									"highscore": true
 								},
@@ -11776,7 +11776,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "7: 7322",
+									"name": "7: 7403",
 									"value": 100,
 									"highscore": true
 								},
@@ -11853,7 +11853,7 @@ const data = {
 								{
 									"name": "9: 9413",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "10: No Score",
@@ -11886,14 +11886,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5885",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6690",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: No Score",
@@ -11951,14 +11951,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6546",
+									"name": "6: 6815",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7396",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -12001,14 +12001,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5544",
+									"name": "5: 5602",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6350",
+									"name": "6: 6630",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7384",
@@ -12268,7 +12268,7 @@ const data = {
 								{
 									"name": "2: 3061",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3991",
@@ -12281,7 +12281,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5898",
+									"name": "5: 6027",
 									"value": 100,
 									"highscore": true
 								},
@@ -12341,9 +12341,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6644",
+									"name": "6: 6994",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7704",
@@ -12371,7 +12371,7 @@ const data = {
 							"name": "Words",
 							"children": [
 								{
-									"name": "1: 1907",
+									"name": "1: 2093",
 									"value": 100,
 									"highscore": false
 								},
@@ -12446,9 +12446,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4535",
+									"name": "4: 5019",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "5: 5875",
@@ -12516,7 +12516,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7329",
+									"name": "7: 7366",
 									"value": 100,
 									"highscore": false
 								},
@@ -12611,7 +12611,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4740",
+									"name": "4: 4976",
 									"value": 100,
 									"highscore": false
 								},
@@ -12911,7 +12911,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "8: 8737",
+									"name": "8: 8820",
 									"value": 100,
 									"highscore": false
 								},
@@ -12938,7 +12938,7 @@ const data = {
 								{
 									"name": "2: 2918",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3415",
@@ -13048,7 +13048,7 @@ const data = {
 								{
 									"name": "2: 2906",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3708",
@@ -13251,7 +13251,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9354",
 									"value": 100,
 									"highscore": false
 								},
@@ -13446,7 +13446,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3720",
+									"name": "3: 3922",
 									"value": 100,
 									"highscore": false
 								},
@@ -13631,9 +13631,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6360",
+									"name": "6: 6738",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7483",
@@ -13671,7 +13671,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3250",
 									"value": 100,
 									"highscore": false
 								},
@@ -13721,12 +13721,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: No Score",
+									"name": "2: 2748",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: No Score",
+									"name": "3: 3783",
 									"value": 100,
 									"highscore": false
 								},
@@ -13858,7 +13858,7 @@ const data = {
 								{
 									"name": "7: 7859",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "8: 8642",
@@ -14126,9 +14126,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5483",
+									"name": "5: 5726",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: 6499",
@@ -14136,9 +14136,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7270",
+									"name": "7: 7403",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -14376,7 +14376,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "8: No Score",
+									"name": "8: 8402",
 									"value": 100,
 									"highscore": false
 								},
@@ -14703,7 +14703,7 @@ const data = {
 								{
 									"name": "6: 6958",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "7: 7848",
@@ -15183,7 +15183,7 @@ const data = {
 								{
 									"name": "1: 1959",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "2: 2869",
@@ -16611,9 +16611,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6560",
+									"name": "6: 6690",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: No Score",
@@ -16726,7 +16726,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6350",
+									"name": "6: 6366",
 									"value": 100,
 									"highscore": false
 								},
@@ -16926,17 +16926,17 @@ const data = {
 							"name": "Relay",
 							"children": [
 								{
-									"name": "1: 1886",
+									"name": "1: 1916",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2869",
+									"name": "2: 2885",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3830",
+									"name": "3: 3834",
 									"value": 100,
 									"highscore": false
 								},
@@ -16988,7 +16988,7 @@ const data = {
 								{
 									"name": "2: 3061",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3991",
@@ -17003,7 +17003,7 @@ const data = {
 								{
 									"name": "5: 5898",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "6: 6634",
@@ -17061,7 +17061,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6779",
+									"name": "6: 6851",
 									"value": 100,
 									"highscore": false
 								},
@@ -17091,7 +17091,7 @@ const data = {
 							"name": "Words",
 							"children": [
 								{
-									"name": "1: 2026",
+									"name": "1: 2093",
 									"value": 100,
 									"highscore": false
 								},
@@ -17221,12 +17221,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4396",
+									"name": "4: 4475",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5303",
+									"name": "5: 5347",
 									"value": 100,
 									"highscore": false
 								},
@@ -17331,7 +17331,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4740",
+									"name": "4: 4976",
 									"value": 100,
 									"highscore": false
 								},
@@ -17403,7 +17403,7 @@ const data = {
 								{
 									"name": "6: 6433",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "7: No Score",
@@ -17436,7 +17436,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2832",
+									"name": "2: 2869",
 									"value": 100,
 									"highscore": false
 								},
@@ -17546,17 +17546,17 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2552",
+									"name": "2: 2625",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3664",
+									"name": "3: 3723",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4624",
+									"name": "4: 4694",
 									"value": 100,
 									"highscore": false
 								},
@@ -17651,22 +17651,22 @@ const data = {
 							"name": "Order Up",
 							"children": [
 								{
-									"name": "1: 1865",
-									"value": 100,
-									"highscore": false
-								},
-								{
-									"name": "2: 2918",
+									"name": "1: 1970",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "3: 3415",
+									"name": "2: 2918",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4131",
+									"name": "3: 3512",
+									"value": 100,
+									"highscore": false
+								},
+								{
+									"name": "4: 4187",
 									"value": 100,
 									"highscore": false
 								},
@@ -17768,10 +17768,10 @@ const data = {
 								{
 									"name": "2: 2906",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
-									"name": "3: 3821",
+									"name": "3: 3844",
 									"value": 100,
 									"highscore": false
 								},
@@ -17821,7 +17821,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2072",
+									"name": "1: 2077",
 									"value": 100,
 									"highscore": false
 								},
@@ -17831,7 +17831,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3904",
+									"name": "3: 3999",
 									"value": 100,
 									"highscore": false
 								},
@@ -17936,7 +17936,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2425",
+									"name": "2: 2470",
 									"value": 100,
 									"highscore": false
 								},
@@ -17986,7 +17986,7 @@ const data = {
 							"name": "Maze",
 							"children": [
 								{
-									"name": "1: 1873",
+									"name": "1: 1887",
 									"value": 100,
 									"highscore": false
 								},
@@ -18061,17 +18061,17 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5746",
+									"name": "5: 5821",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "6: 6647",
+									"name": "6: 6791",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "7: 7232",
+									"name": "7: 7543",
 									"value": 100,
 									"highscore": false
 								},
@@ -18166,7 +18166,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3720",
+									"name": "3: 3922",
 									"value": 100,
 									"highscore": false
 								},
@@ -18201,9 +18201,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10548",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								}
 							]
 						},
@@ -18271,12 +18271,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2593",
+									"name": "2: 2619",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3399",
+									"name": "3: 3430",
 									"value": 100,
 									"highscore": false
 								},
@@ -18326,34 +18326,34 @@ const data = {
 							"name": "Bullet Train",
 							"children": [
 								{
-									"name": "1: 2031",
+									"name": "1: 2032",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2927",
+									"name": "2: 3055",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3810",
+									"name": "3: 3901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4604",
+									"name": "4: 4822",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5556",
+									"name": "5: 5705",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6360",
+									"name": "6: 6738",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7483",
@@ -18366,9 +18366,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9379",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "10: No Score",
@@ -18578,7 +18578,7 @@ const data = {
 								{
 									"name": "7: 7859",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "8: 8648",
@@ -18616,7 +18616,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3548",
+									"name": "3: 3575",
 									"value": 100,
 									"highscore": false
 								},
@@ -18771,17 +18771,17 @@ const data = {
 							"name": "Seeker",
 							"children": [
 								{
-									"name": "1: 1977",
+									"name": "1: 2076",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2830",
+									"name": "2: 2847",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3755",
+									"name": "3: 3816",
 									"value": 100,
 									"highscore": false
 								},
@@ -21291,9 +21291,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9518",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "10: No Score",
@@ -21326,14 +21326,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5696",
+									"name": "5: 5885",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6560",
+									"name": "6: 6690",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: No Score",
@@ -21391,14 +21391,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: 6585",
+									"name": "6: 6815",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "7: No Score",
+									"name": "7: 7396",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -21441,14 +21441,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5438",
+									"name": "5: 5602",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6350",
+									"name": "6: 6630",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: No Score",
@@ -21708,7 +21708,7 @@ const data = {
 								{
 									"name": "2: 3061",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3991",
@@ -21721,7 +21721,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5898",
+									"name": "5: 6027",
 									"value": 100,
 									"highscore": true
 								},
@@ -21781,9 +21781,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6846",
+									"name": "6: 6994",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7704",
@@ -21811,7 +21811,7 @@ const data = {
 							"name": "Words",
 							"children": [
 								{
-									"name": "1: 1907",
+									"name": "1: 2093",
 									"value": 100,
 									"highscore": false
 								},
@@ -21886,9 +21886,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4683",
+									"name": "4: 5019",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "5: 5875",
@@ -21956,7 +21956,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7329",
+									"name": "7: 7366",
 									"value": 100,
 									"highscore": false
 								},
@@ -22051,7 +22051,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4740",
+									"name": "4: 4976",
 									"value": 100,
 									"highscore": false
 								},
@@ -22123,7 +22123,7 @@ const data = {
 								{
 									"name": "6: 6433",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "7: No Score",
@@ -22156,7 +22156,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2832",
+									"name": "2: 2869",
 									"value": 100,
 									"highscore": false
 								},
@@ -22371,17 +22371,17 @@ const data = {
 							"name": "Order Up",
 							"children": [
 								{
-									"name": "1: 1718",
-									"value": 100,
-									"highscore": false
-								},
-								{
-									"name": "2: 2918",
+									"name": "1: 1970",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "3: 3000",
+									"name": "2: 2918",
+									"value": 100,
+									"highscore": false
+								},
+								{
+									"name": "3: 3512",
 									"value": 100,
 									"highscore": false
 								},
@@ -22488,10 +22488,10 @@ const data = {
 								{
 									"name": "2: 2906",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
-									"name": "3: 3708",
+									"name": "3: 3844",
 									"value": 100,
 									"highscore": false
 								},
@@ -22656,7 +22656,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2326",
+									"name": "2: 2470",
 									"value": 100,
 									"highscore": false
 								},
@@ -22691,7 +22691,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9354",
 									"value": 100,
 									"highscore": false
 								},
@@ -22781,19 +22781,19 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5746",
+									"name": "5: 5821",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "6: 6468",
+									"name": "6: 6791",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "7: 7232",
+									"name": "7: 8249",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: 8275",
@@ -22886,7 +22886,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3720",
+									"name": "3: 3922",
 									"value": 100,
 									"highscore": false
 								},
@@ -22921,9 +22921,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10548",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								}
 							]
 						},
@@ -23046,34 +23046,34 @@ const data = {
 							"name": "Bullet Train",
 							"children": [
 								{
-									"name": "1: 1940",
+									"name": "1: 2032",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2862",
+									"name": "2: 3055",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3790",
+									"name": "3: 3901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4448",
+									"name": "4: 4822",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5487",
+									"name": "5: 5705",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6417",
+									"name": "6: 6738",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7483",
@@ -23086,9 +23086,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9379",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "10: No Score",
@@ -23161,12 +23161,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2481",
+									"name": "2: 2748",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3288",
+									"name": "3: 3783",
 									"value": 100,
 									"highscore": false
 								},
@@ -23298,7 +23298,7 @@ const data = {
 								{
 									"name": "7: 7859",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "8: 8642",
@@ -23336,7 +23336,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3531",
+									"name": "3: 3575",
 									"value": 100,
 									"highscore": false
 								},
@@ -23566,9 +23566,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5483",
+									"name": "5: 5726",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: 6499",
@@ -23576,9 +23576,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7270",
+									"name": "7: 7403",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -23686,14 +23686,14 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5696",
+									"name": "5: 5885",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6560",
+									"name": "6: 6690",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: No Score",
@@ -23751,7 +23751,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6503",
 									"value": 100,
 									"highscore": false
 								},
@@ -23801,12 +23801,12 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: No Score",
+									"name": "5: 5602",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: No Score",
+									"name": "6: 6366",
 									"value": 100,
 									"highscore": false
 								},
@@ -23926,7 +23926,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "8: 8229",
+									"name": "8: 8399",
 									"value": 100,
 									"highscore": false
 								},
@@ -24011,7 +24011,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2781",
+									"name": "2: 2885",
 									"value": 100,
 									"highscore": false
 								},
@@ -24071,7 +24071,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3969",
+									"name": "3: 3999",
 									"value": 100,
 									"highscore": false
 								},
@@ -24081,7 +24081,7 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5898",
+									"name": "5: 6027",
 									"value": 100,
 									"highscore": true
 								},
@@ -24141,9 +24141,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "6: 6846",
+									"name": "6: 6994",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7652",
@@ -24246,9 +24246,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4683",
+									"name": "4: 5019",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "5: 5875",
@@ -24291,7 +24291,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "2: 2788",
+									"name": "2: 2802",
 									"value": 100,
 									"highscore": false
 								},
@@ -24316,7 +24316,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "7: 7252",
+									"name": "7: 7366",
 									"value": 100,
 									"highscore": false
 								},
@@ -24411,7 +24411,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "4: 4748",
+									"name": "4: 4976",
 									"value": 100,
 									"highscore": false
 								},
@@ -24483,7 +24483,7 @@ const data = {
 								{
 									"name": "6: 6433",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "7: No Score",
@@ -24511,12 +24511,12 @@ const data = {
 							"name": "Jigsaw",
 							"children": [
 								{
-									"name": "1: 1852",
+									"name": "1: 1901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2832",
+									"name": "2: 2862",
 									"value": 100,
 									"highscore": false
 								},
@@ -24621,12 +24621,12 @@ const data = {
 							"name": "Mega Relay",
 							"children": [
 								{
-									"name": "1: 1803",
+									"name": "1: 1962",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "2: 2700",
+									"name": "2: 2795",
 									"value": 100,
 									"highscore": false
 								},
@@ -24731,17 +24731,17 @@ const data = {
 							"name": "Order Up",
 							"children": [
 								{
-									"name": "1: 1718",
-									"value": 100,
-									"highscore": false
-								},
-								{
-									"name": "2: 2918",
+									"name": "1: 1970",
 									"value": 100,
 									"highscore": true
 								},
 								{
-									"name": "3: 3000",
+									"name": "2: 2918",
+									"value": 100,
+									"highscore": false
+								},
+								{
+									"name": "3: 3512",
 									"value": 100,
 									"highscore": false
 								},
@@ -24848,7 +24848,7 @@ const data = {
 								{
 									"name": "2: 2906",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "3: 3877",
@@ -24901,7 +24901,7 @@ const data = {
 							"name": "Defuse",
 							"children": [
 								{
-									"name": "1: 2062",
+									"name": "1: 2077",
 									"value": 100,
 									"highscore": false
 								},
@@ -24911,7 +24911,7 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "3: 3803",
+									"name": "3: 3999",
 									"value": 100,
 									"highscore": false
 								},
@@ -25013,7 +25013,7 @@ const data = {
 								{
 									"name": "1: 1779",
 									"value": 100,
-									"highscore": true
+									"highscore": false
 								},
 								{
 									"name": "2: 2524",
@@ -25141,19 +25141,19 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "5: 5746",
+									"name": "5: 5821",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "6: 6635",
+									"name": "6: 6791",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "7: 7516",
+									"name": "7: 8249",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "8: No Score",
@@ -25281,9 +25281,9 @@ const data = {
 									"highscore": false
 								},
 								{
-									"name": "10: No Score",
+									"name": "10: 10548",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								}
 							]
 						},
@@ -25406,34 +25406,34 @@ const data = {
 							"name": "Bullet Train",
 							"children": [
 								{
-									"name": "1: 1940",
+									"name": "1: 2032",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2898",
+									"name": "2: 3055",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3790",
+									"name": "3: 3901",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4641",
+									"name": "4: 4822",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5556",
+									"name": "5: 5705",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
-									"name": "6: 6417",
+									"name": "6: 6738",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "7: 7483",
@@ -25446,9 +25446,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "9: No Score",
+									"name": "9: 9379",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "10: No Score",
@@ -25686,27 +25686,27 @@ const data = {
 							"name": "Asteroids",
 							"children": [
 								{
-									"name": "1: 1945",
+									"name": "1: 1967",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2721",
+									"name": "2: 2786",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3548",
+									"name": "3: 3679",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "4: 4436",
+									"name": "4: 4587",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "5: 5419",
+									"name": "5: 5450",
 									"value": 100,
 									"highscore": false
 								},
@@ -25851,17 +25851,17 @@ const data = {
 							"name": "Seeker",
 							"children": [
 								{
-									"name": "1: 2001",
+									"name": "1: 2076",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "2: 2767",
+									"name": "2: 2847",
 									"value": 100,
 									"highscore": false
 								},
 								{
-									"name": "3: 3755",
+									"name": "3: 3816",
 									"value": 100,
 									"highscore": false
 								},
@@ -25926,9 +25926,9 @@ const data = {
 									"highscore": true
 								},
 								{
-									"name": "5: 5330",
+									"name": "5: 5726",
 									"value": 100,
-									"highscore": false
+									"highscore": true
 								},
 								{
 									"name": "6: 6269",
